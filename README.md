@@ -47,7 +47,26 @@ Capítulo III: Requirements Specification
 3.1. To-Be Scenario Mapping.
 3.2. User Stories.
 3.3. Impact Mapping.
+
 3.4. Product Backlog.
+| # Orden | User Story Id | Título | Descripción | Story Points (1/2/3/5/8) |
+|---------|---------------|--------|-------------|--------------------------|
+| 1 | 1 | Estacionamiento cercanos | Como ciclista, deseo saber que estacionamientos estan cercanos a mi ubicación para ahorrar tiempo en mi busqueda de estacionamientos. | 5 |
+| 2 | 2 | Espacios libres en estacionamientos | Como ciclista, deseo saber cuantos espacios disponibles hay en un estacionamiento para saber si podré estacionar mi bicicleta. | 3 |
+| 3 | 3 | Reseña sobre estacionamiento | Como ciclista, deseo hacer una reseña sobre un estacionamiento para poder compartir mi experiencia sobre un estacionamiento. | 3 |
+| 4 | 4 | Acceso a foro | Como ciclista, deseo acceder a un foro para poder comunicarme con otros ciclistas. | 8 |
+| 5 | 5 | Subir imágenes y videos al foro | Como ciclista, deseo subir imágenes y videos al foro para que mis publicaciones sean mejores. | 3 |
+| 6 | 6 | Reportar a un usuario | Como ciclista, deseo reportar un usuario para que la aplicación tenga un buen ambiente para los ciclistas. | 3 |
+| 7 | 7 | Seguir a otro usuario | Como ciclista, deseo seguir a otro usuario en la aplicación para que sus publicaciones sean prioritarias cuando ingrese al foro. | 5 |
+| 8 | 8 | Buscar tiendas relacionadas a las bicicletas | Como ciclista, deseo buscar tiendas relacionadas al ciclismo en la aplicación para poder realizar alguna compra para mi bicicleta. | 5 |
+| 9 | 9 | Buscar rutas seguras | Como ciclista, deseo buscar rutas seguras para mantenerme a salvo. | 5 |
+| 10 | 10 | Aviso de inseguridad | Como ciclista, deseo recibir alertas sobre inseguridad sobre una ruta para poder tener más cuidado. | 3 |
+| 11 | 11 | Aviso de tráfico | Como ciclista, deseo recibir alertas de tráfico para tomar mis precauciones. | 3 |
+| 12 | 12 | Calificar una ruta | Como ciclista, deseo calificar una ruta para que los demás ciclistas puedan tener conocimiento si una ruta es buena o mala. | 3 |
+| 13 | 13 | Información importante sobre la aplicación | Como ciclista, deseo que el landing page tenga secciones con información importante para mantenerme informado sobre la aplicación. | 2 |
+| 14 | 14 | Contacto de información | Como ciclista, deseo que el landing page tenga contactos de información para poder contactarme rápidamente con servicio al cliente. | 2 |
+| 15 | 15 | Validación de usuario | Como desarrollador, deseo validar a los usuarios cuando envien su información en el inicio de sesión para que la aplicación sea segura y óptima. | 8 |
+
 Capítulo IV: Product Design
 4.1. Style Guidelines.
 6/36 V1.0
