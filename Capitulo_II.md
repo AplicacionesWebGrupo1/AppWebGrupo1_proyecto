@@ -63,33 +63,9 @@ El objetivo del análisis competitivo es investigar y evaluar los principales co
 
 #### 2.2.2. Registro de entrevistas
 
-**Entrevista 1 – Ivan Huallpartupa (23 años, Lima)**  
-Estudiante de Ingeniería Electrónica. Le interesa la idea para conseguir materiales de forma asequible. Requiere confianza en las transacciones.
-
-**Entrevista 2 – Paola Huallpartupa (16 años, Lima)**  
-Escolar con familiares técnicos. Tiene electrónicos sin uso y quiere monetizarlos. Le gusta la idea de obtener algo a cambio del reciclaje.
+---
 
 #### 2.2.3. Análisis de entrevistas
-
-**Persona 1: “Valentina, la estudiante precavida”**  
-- **Edad:** 21 años  
-- **Ocupación:** Estudiante universitaria  
-- **Ubicación:** Ciudad de tamaño medio con tráfico moderado y poca infraestructura ciclista  
-- **Objetivos:** Llegar segura y a tiempo a clases, ahorrar dinero, evitar el transporte público.  
-- **Motivaciones:** Seguridad personal, ahorro de tiempo y dinero, independencia.  
-- **Frustraciones:** Falta de información sobre rutas seguras, temor a robos, no saber dónde estacionar su bici.  
-- **Hábitos:** Usa la bicicleta 5 veces por semana. Prefiere rutas conocidas pero lentas.  
-- **Tecnología:** Usa apps como Google Maps, pero las considera poco útiles para ciclistas.
-
-**Persona 2: “Carlos, el ciclista veterano”**  
-- **Edad:** 35 años  
-- **Ocupación:** Diseñador gráfico freelance  
-- **Ubicación:** Capital con zonas muy inseguras y otras amigables con la bici  
-- **Objetivos:** Optimizar su ruta diaria a cafés de trabajo, evitar calles peligrosas, conocer talleres cercanos.  
-- **Motivaciones:** Eficiencia, bienestar, contribuir al medio ambiente.  
-- **Frustraciones:** Calles con baches o mal señalizadas, apps que no consideran el ciclismo urbano.  
-- **Hábitos:** Se moviliza en bici todos los días, incluso en horarios nocturnos.  
-- **Tecnología:** Usa apps como Strava, Komoot y redes sociales para compartir rutas y consejos.
 
 ---
 
