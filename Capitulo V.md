@@ -110,12 +110,12 @@ En esta seccion se busca detallar el proceso por la cual se trabajo el Sprint 1 
 
 | Repository          | Branch            | Commit Id | Commit Message           | Commit Message Body            | Committed on (Date) |
 |---------------------|-------------------|-----------|--------------------------|--------------------------------|---------------------|
-|   |             | 6dfd1ead416b49e9fab0b7362219965534945ad4       | Update README.md          | Updated project README for clarity and added new sections. | Sep 7, 2024         |
-|   |             | 025d465422e53cb1222091ea25e39f4303273779       | Delete css directory      | Removed unused CSS directory to clean up the project structure. | Sep 2, 2024         |
-|   |            | 5bb2aa9b6f8310e7363b0b912cc2d07558470961       | Add files via upload      | Uploaded project resources, including updated images and documents. | Sep 2, 2024         |
-|   |            | ada6c0c2ad75e98ea1aef9cfcce1fdf820dc6d34       | Add files via upload      | Uploaded additional assets for the web interface. | Sep 2, 2024         |
-|   |             | b85cd8f99c7f2a4c1dd72afa9d18bb3c34f554f4       | Initial commit            | Initial setup of project repository, added basic structure and initial files. | Sep 1, 2024         |
-|   | feature/responsive-design  | 7e4d9bc2f9a730e1548b1a72da3f048fc94372f1       | Add responsive design               | Implemented mobile-first design for the landing page.       | Sep 4, 2024         |
+|   |             | 6dfd1ead416b49e9fab0b7362219965534945ad4       | Update README.md          |  |          |
+|   |             | 025d465422e53cb1222091ea25e39f4303273779       | Delete css directory      |  |          |
+|   |            | 5bb2aa9b6f8310e7363b0b912cc2d07558470961       | Add files via upload      |  |         |
+|   |            | ada6c0c2ad75e98ea1aef9cfcce1fdf820dc6d34       | Add files via upload      |  |         |
+|   |             | b85cd8f99c7f2a4c1dd72afa9d18bb3c34f554f4       | Initial commit            |  |          |
+|   | feature/responsive-design  | 7e4d9bc2f9a730e1548b1a72da3f048fc94372f1       | Add responsive design               |        |         |
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
 
