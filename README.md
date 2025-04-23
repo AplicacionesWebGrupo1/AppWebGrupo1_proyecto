@@ -91,4 +91,4 @@ Capítulo V: Product Implementation, Validation & Deployment
 5.2.X.4. Development Evidence for Sprint Review.
 5.2.X.5. Execution Evidence for Sprint Review.
 5.2.X.6. Services Documentation Evidence for Sprint Review.
-5.2.X.7. Software Deployment Evidence for Sprint Re 
+5.2.X.7. Software Deployment Evidence for Sprint Re
