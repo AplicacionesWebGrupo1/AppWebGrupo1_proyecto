@@ -43,13 +43,13 @@ El código seguirá las convenciones de BEM (Block Element Modifier) para la est
 
 ### 5.1.4. Software Deployment Configuration
 Nuestro proyecto está alojado en un repositorio de GitHub y para el despliegue de nuestro landing page se a usado el GithubPages, ya que es una excelente manera de mostrar tu sitio web de forma gratuita y accesible en línea
-![Captura de pantalla 2024-09-07 210111](https://github.com/user-attachments/assets/5b352da3-4738-4cc3-b6da-a5eb811d0fcc)
+
 
 Se a subido todos los archivos que conforman en landign Page, tanto como los archivos HTML, CSS y JS.
-![Captura de pantalla 2024-09-07 210358](https://github.com/user-attachments/assets/4dfdb6d0-f1fd-4d4b-9813-d5343f4a5df9)
+
 
 Y por ultimo se carga todo y se genera un enlace de pagina web donde esta se encuentra nuestro landing Page
-[Enlace del landing Page](https://mauriciomvilcapoma.github.io/LandingPageEventify/)
+
 
 ## 5.2. Landing Page, Services & Applications Implementation
 ### 5.2.1. Sprint 1
@@ -162,7 +162,7 @@ Durante este sprint, se realizó el despliegue inicial de la **Landing Page** de
 
 ### Evidencias del Proceso de Despliegue
 
-![Captura de pantalla 2024-09-07 210111](https://github.com/user-attachments/assets/5b352da3-4738-4cc3-b6da-a5eb811d0fcc)
+
 
 #### 5.2.X.8. Team Collaboration Insights during Sprint
 Durante este Sprint, el equipo ha colaborado en la creación de los productos planificados, centrándose en la **Landing Page**. A continuación, se ofrece un resumen sobre el desarrollo de las actividades que fueron divididas entre los integrantes del equipo.
