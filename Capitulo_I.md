@@ -138,6 +138,11 @@ El producto se utiliza principalmente en las mañanas y tardes, durante los desp
 
 ##### 1.2.2.4. Lean UX Canvas
 
+![lean1](https://raw.githubusercontent.com/AplicacionesWebGrupo1/AppWebGrupo1_proyecto/refs/heads/main/Image/lean%20.png)
+
+
+![lean2](https://raw.githubusercontent.com/AplicacionesWebGrupo1/AppWebGrupo1_proyecto/refs/heads/main/Image/lean%202.png)
+
 # 1.3. Segmentos objetivo
 Nuestro software esta dirigido hacia 2 segmentos objetivos, los cuales son:
 
