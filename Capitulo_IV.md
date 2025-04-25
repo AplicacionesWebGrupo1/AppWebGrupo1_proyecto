@@ -1,3 +1,18 @@
+# 4.1. Style Guidelines
+### 4.1.1. General Style Guidelines
+### Tipografía
+Para la tipografía se utilizo una que permite una buena visualización del texto. Para los tamaños que se va utilizar dependerá si es un título o texto de contenido.
+
+### Colores
+Se tendrá dos principales colores, los cuales son amarillo y azul. La razón, por la cual se elegio es debido a su gran combinación. Por otro lado, estos colores se utilizarán en el texto para que pueda darle un mejor aspecto.
+
+### 4.1.2. Web Style Guidelines
+### Imágenes
+Para las imágenes se utiliza diseños coloridos para llamar la atención del usuario. Además, se utilizarán diferentes tamaños de imágenes para que el usuario pueda visualizarlo.
+
+### Botones
+Para los botones se utilizará colores relacionados con la plataforma para que puedan tener un aspecto agradable. Además, los botones tendrán varios tipos de tamaños para que usuario pueda encontrarlos con facilidad.
+
 # 4.2. Information Architecture
 ### 4.2.1. Organization Systems
 
