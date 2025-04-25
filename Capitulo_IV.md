@@ -55,10 +55,24 @@ Se utilizaran etiquetas meta para optimizar el posicionamiento y el contenido de
 
 - El desplazamiento dentro del mapa y los filtros por categorías permiten una navegación detallada dentro de esta vista sin saturar la interfaz.
 
+### 4.3.1. Landing Page Wireframe
+A continuación se muestran algunas imágenes correspondientes  a los wireframe de la página elaborados en figma.
+Login 
+![Login](https://github.com/user-attachments/assets/253b0f87-aa73-47fb-b3a2-febf06d340f8)
 
+Ventana principal
+![Main](https://github.com/user-attachments/assets/58c24610-2fa4-4e87-bf01-c5622dfe359f)
 
+Acerca de
+![About](https://github.com/user-attachments/assets/366da274-d210-43a8-ac64-18383e4d0295)
 
+Descubre
+![Descubre](https://github.com/user-attachments/assets/c8d627a1-320a-4561-b038-aa069917cad8
 
+Features
+![Features](https://github.com/user-attachments/assets/47d48dba-d130-493f-884c-f2c370fc947f)
+
+Todos los demas wireframes de la landing page se encuentran ubicabos en: https://www.figma.com/design/nouIUi5rcJWhtBMA4cKlQk/Untitled?node-id=0-1&t=ah4JOvPVGWKJwY3K-1
  
 ## 4.7. Software Object-Oriented Design
 Una vista preeliminar a cómo deberían estar estructuradas las clases del proyecto.
