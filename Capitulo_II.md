@@ -62,10 +62,19 @@ El objetivo del análisis competitivo es investigar y evaluar los principales co
 
 
 #### 2.2.2. Registro de entrevistas
+Entrevista #1
+https://drive.google.com/file/d/1kUfgpdENFu7vPtqiBXHLwZ0pChm2oV74/view?usp=sharing
 
----
+![1.](image/img_entrevista.png)
+
+
+
+
 
 #### 2.2.3. Análisis de entrevistas
+-La mayoría de personas conluyó que usaba una app para ubicarse con su bicicleta. Una de los entrevistados usaba Strava.
+-Todos concluyeron que el conocer si la zona por la que pasan es históricamente peligrosa.
+-La mitad consideraría el usar el foro.
 
 ---
 
@@ -74,7 +83,9 @@ El objetivo del análisis competitivo es investigar y evaluar los principales co
 
 Desarrollados a partir de las entrevistas, para entender objetivos, motivaciones, frustraciones y perfiles generales.
 
+![2.](image/US1.png)
 
+![3.](image/US2.png)
 ---
 
 #### 2.3.2. User Task Matrix
@@ -99,12 +110,12 @@ Desarrollados a partir de las entrevistas, para entender objetivos, motivaciones
 
 **Etapas comunes del usuario al usar CicloVía:**
 
-
+![4.](image/JourneyMap.png)
 ---
 
 #### 2.3.4. Empathy Mapping
 
-
+![4.](image/EmpathyMap.png)
 ---
 
 #### 2.3.5. As-Is Scenario Mapping
