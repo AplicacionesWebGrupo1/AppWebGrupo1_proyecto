@@ -1,5 +1,13 @@
 Capítulo III: Requirements Specification
+
 3.1. To-Be Scenario Mapping.
+
+| | Conciencia de problema | Búsqueda de información | Intento de acción | Reflexión y ajustes |
+|-|------------------------|-------------------------|-------------------|---------------------|
+| Doing | - Empiezo a usar la bici con más frecuencia. - Noto que algunas rutas se sienten inseguras o poco prácticas. - Tengo dificultades para estacionar con confianza. | - Busco aplicaciones web en internet - Realizo una investigación en grupos sobre aplicaciones web de rutas | - Empiezo a usar la aplicación web CicloVía para buscar una solución a mis problemas con las rutas y estacionamientos | - Empiezo a usar Ciclovía con más frecuencia para buscar rutas seguras y estacionamientos cercanos |
+| Thinking | “Hay muchos autos en esta zona, no sé si es seguro.” “¿Dónde puedo dejar la bici sin preocuparme?” | “Me recomendaron una aplicación web llamada CicloVía, asi que lo voy a probar | “Pienso que la aplicación web es muy interesante porque tiene varias funciones” | “CicloVía me ayuda a reducir mi tiempo de búsqueda de rutas y estacionamientos” |
+| Feeling | - Ansiedad por la inseguridad de ciertas calles. - Incomodidad por tener que improvisar constantemente rutas o soluciones. | - Me siento curioso porque voy a probar una nueva aplicación web relacionada a las rutas | - Me siento tranquilo porque la aplicación web fue bueno y sus funcionales son de mucha ayuda | - Me siento feliz porque ahora podré mantenerme seguro y lograré ahorrar tiempo en mi búsqueda de estacionamientos y rutas |
+
 3.2. User Stories.
 
 Epic
