@@ -21,18 +21,20 @@ En esta sección, se definen las herramientas utilizadas en cada fase del desarr
 ### 5.1.2. Source Code Management
 | Nombre completo | Nombre de la cuenta|
 | ------------------ |------------------------- |
-| Integrante 1 | 
-| Integrante 2 | x | 
-| Integrante 2 | x |
-| Integrante 4 | x |
-| Integrante 5 | x |
+| Integrante 1 | JuanqQuijano
+| Integrante 2 | JhonHuam | 
+| Integrante 2 | melinaasantillan |
+| Integrante 4 | SantiIHC |
 
-capturas/imagenes de evidencia
-Evidencia de la creacion del repositorio de trabajo. Enlace del repossitorio: 
+Evidencia de la creacion del repositorio de trabajo: 
+![Captura de pantalla 2025-04-24 055040](https://github.com/user-attachments/assets/23776c45-e88a-4fe8-8391-72db89dd5f8b)
 
 Creacion de las ramas de trabajo (branchs):
+![brach](https://github.com/user-attachments/assets/05ed2b89-c25a-427c-9c40-46d9ce7399b3)
 
-Commits de evidencia del trabajo:
+Commits de evidencia del trabajo: (PENDIENTE PARA EL FINAL)
+
+Enlace del repositorio: https://github.com/AplicacionesWebGrupo1/AppWebGrupo1_proyecto
 
 ### 5.1.3. Source Code Style Guide & Conventions
 El código seguirá las convenciones de BEM (Block Element Modifier) para la estructura de CSS, HTML y JavaScript. Se aplicarán las siguientes guías de estilo: 
@@ -46,10 +48,9 @@ Nuestro proyecto está alojado en un repositorio de GitHub y para el despliegue 
 
 
 Se a subido todos los archivos que conforman en landign Page, tanto como los archivos HTML, CSS y JS.
+![fawef](https://github.com/user-attachments/assets/5ea86c54-6273-41eb-b910-3625c4b9c422)
 
-
-Y por ultimo se carga todo y se genera un enlace de pagina web donde esta se encuentra nuestro landing Page
-
+Y por ultimo se carga todo y se genera un enlace de pagina web donde esta se encuentra nuestro landing Page: https://aplicacioneswebgrupo1.github.io/Landing-page-CicloVia/
 
 ## 5.2. Landing Page, Services & Applications Implementation
 ### 5.2.1. Sprint 1
@@ -60,35 +61,38 @@ Durante el Sprint 1, nuestro enfoque principal fue el desarrollo de la landing p
 
 | **Sprint #**                        | 1                                                                                              |
 |-----------------------------------|------------------------------------------------------------------------------------------------|
-| **Date**                           |                                                                                    |
-| **Time**                           | 11:00 AM                                                                                       |
+| **Date**                           | 22/04/2025                                                                                   |
+| **Time**                           | 11:30 AM                                                                                       |
 | **Location**                       | Zoom Meetings                                                                                  |
-| **Prepared By**                    |                                                                                   |
-| **Attendees (to planning meeting)**| |
+| **Prepared By**                    | Juan Quijano                                                                                  |
+| **Attendees (to planning meeting)**| Santiago Alonso, Jhon Huamani, Melina Santillan|
 
 **Introducción:**
 
-El equipo se reunió para planificar el Sprint 1 del proyecto Eventify, cuyo enfoque principal es la creación de la landing page. La planificación incluyó la definición de las User Stories y la asignación de Story Points para determinar la velocidad del equipo y asegurarse de que las tareas clave se completen dentro del tiempo estimado.
+El equipo se reunió para planificar el Sprint 1 del proyecto, cuyo enfoque principal es la creación de la landing page. La planificación incluyó la definición de las User Stories y la asignación de Story Points para determinar la velocidad del equipo y asegurarse de que las tareas clave se completen dentro del tiempo estimado.
 
 **Sprint Goal:**
-
-Nuestro enfoque está en **diseñar e implementar la página de destino**. Creemos que ofrece **una interfaz de usuario funcional y visualmente atractiva** para **usuarios potenciales**. Esto se confirmará cuando **la página pase revisiones internas y cumpla con los requisitos de coherencia del diseño y elementos interactivos**.
+Nuestro enfoque está en **diseñar e implementar la página de destino**. Creemos que ofrece **una interfaz de usuario funcional y visualmente atractiva** para **usuarios potenciales**. 
 
 **Sprint 1 Velocity:**  
-El equipo ha acordado un total de **20 puntos** de velocidad para este sprint, basándose en la capacidad y disponibilidad de los miembros del equipo.
+El equipo ha acordado un total de **27 puntos** de velocidad para este sprint, basándose en la capacidad y disponibilidad de los miembros del equipo.
 
 **Sum of Story Points:**  
-El equipo ha asignado un total de **20 puntos** distribuidos en **6 User Stories**.
+El equipo ha asignado un total de **27 puntos** distribuidos en **3 User Stories**.
 
 | **Sprint 1 – 1 Review Summary**        | Landing Page.                                                                                     |
 |----------------------------------------|---------------------------------------------------------------------------------------------------|
-| **Sprint 1 – 1 Retrospective Summary** | Basado en la retroalimentación del Sprint anterior, se identificaron áreas clave para mejorar la eficiencia del equipo y la calidad del producto. La revisión de la landing page reveló que, aunque se cumplieron los objetivos iniciales, hubo desafíos en la integración de elementos interactivos y en la consistencia del diseño visual. El equipo acordó que era crucial abordar estos problemas en el próximo sprint para asegurar una experiencia de usuario fluida. Además, se decidió implementar revisiones más frecuentes y establecer una documentación más clara del proceso para evitar malentendidos y mejorar la colaboración. La planificación del Sprint 1 se centra en aplicar estas lecciones aprendidas, optimizando el diseño y la funcionalidad de la landing page para cumplir con los estándares de calidad y las expectativas del Product Owner. |
+| **Sprint 1 – 1 Retrospective Summary** | Tras la culminacion de este sprint, se identificaron áreas clave para mejorar la eficiencia del equipo y la calidad del producto. La revisión de la landing page reveló que, aunque se cumplieron los objetivos iniciales, hubo desafíos en la integración de elementos interactivos y en la consistencia del diseño visual. El equipo acordó que era crucial abordar estos problemas en el próximo sprint para asegurar una experiencia de usuario fluida. Además, se decidió implementar revisiones más frecuentes y establecer una documentación más clara del proceso para evitar malentendidos y mejorar la colaboración. |
 
 
 #### 5.2.2.2. Sprint Backlog 1
 
 **Objetivo del Sprint**
 El objetivo principal de este sprint es completar la estructura y los elementos interactivos de la landing page, aplicando estilos visuales consistentes y asegurando la funcionalidad de los formularios y el carrusel de imágenes. Se busca que la página sea completamente operativa y esté lista para las pruebas finales de usabilidad y ajuste, basándose en el feedback recibido.
+Los elementos para este este sprint se organizaron en un tablero de trello: 
+
+![Captura de pantalla 2025-04-25 024131](https://github.com/user-attachments/assets/835f2568-b1a9-4a41-b9e3-d4337c1128f7)
+Enlace al tablero de trello: https://trello.com/b/iRvxX7bk/grupo-1-ciclovia
 
 | **Sprint #** | **Sprint 1** |
 |--------------|--------------|
@@ -98,24 +102,32 @@ El objetivo principal de este sprint es completar la estructura y los elementos 
 
 | **Id**        | **Title**                                | **Id**  | **Title**                     | **Description**                                                    | **Estimation (Hours)** | **Assigned To**                    | **Status** |
 |--------------|------------------------------------------|---------|-------------------------------|--------------------------------------------------------------------|------------------------|-----------------------------------|------------|
-| US001        | Definir estructura de la landing page     | T001    | Crear estructura HTML          | Implementar la estructura básica de la landing page en HTML.       | 4                      |         |       |
-| US001        | Definir estructura de la landing page     | T002    | Estilizar con CSS              | Aplicar el diseño visual utilizando CSS, siguiendo los lineamientos del proyecto. | 6                      |          |       |
-| US002        | Implementar elementos interactivos        | T003    | Configurar carrusel de imágenes | Desarrollar el componente de carrusel para mostrar imágenes en la landing page. | 5                      |        |        |
-| US002        | Implementar elementos interactivos        | T004    | Crear formularios de contacto  | Crear y validar los formularios de contacto en la landing page.    | 3                      |         |       |
-| US003        | Pruebas y ajustes finales                 | T005    | Realizar pruebas de funcionalidad | Ejecutar pruebas para asegurar que todos los elementos interactivos funcionen correctamente. | 2                      |         |        |
-| US003        | Pruebas y ajustes finales                 | T006    | Ajustar según feedback         | Modificar elementos de diseño y funcionalidad basado en el feedback recibido. | 4                      |        |      |
+| US001        | Como ciclista quiero una landing page clara y organizada para entender rápidamente la app     | T001    | Crear estructura HTML          | Implementar la estructura básica de la landing page en HTML      | 4                      | Santiago Gordillo        | Done      |
+| US001        | Como ciclista quiero una landing page clara y organizada para entender rápidamente la app     | T002    | Estilizar con CSS              | Aplicar el diseño visual utilizando CSS, siguiendo los lineamientos del proyecto. | 6                      | Jhon Huamani          | Done     |
+| US001        | Como ciclista quiero una landing page clara y organizada para entender rápidamente la app       | T003    | Configurar carrusel de imágenes | Incluir secciones informativas sobre la aplicación (uso, beneficios, etc.) | 5                      | Juan Quijano       | Done       |
+| US001        | Como ciclista quiero una landing page clara y organizada para entender rápidamente la app        | T004    | Crear formularios de contacto  | Implementar sección de contacto con datos y formulario para soporte.    | 3                      | Melina Santillan        | Done      |
+| US002        | Como ciclista quiero interactuar con elementos dinámicos para explorar de forma sencilla las funcionalidades de la aplicación                 | T005    | Configurar carrusel de imágenes | Ejecutar pruebas para asegurar que todos los elementos interactivos funcionen correctamente. | 2                      | Juan Quijano         | Done       |
+| US002        | Como ciclista quiero interactuar con elementos dinámicos para explorar de forma sencilla las funcionalidades de la aplicación                 | T006    | Agregar animaciones al desplazarse         | Modificar elementos de diseño y funcionalidad basado en el feedback recibido. | 4                      | Santiago Gordillo       | Done     |
+| US002        | Como ciclista quiero interactuar con elementos dinámicos para explorar de forma sencilla las funcionalidades de la aplicación                                          | T007            | implementación de botones dentro de la landing page                               | Se agregan los botones con las funcionalidades escenciales de la app                                                                        | 3                       | Jhon Huamani       |Done
 
 #### 5.2.X.3. Development Evidence for Sprint Review
 En esta seccion se busca detallar el proceso por la cual se trabajo el Sprint 1 indicando el repositorio en la cual se trabajo las ramas que se usaron dentro de dicho repositorio, el id con su mensaje y la fecha en la que se realizo de esta manera tener un registro del avance de los task planteados.
 
 | Repository          | Branch            | Commit Id | Commit Message           | Commit Message Body            | Committed on (Date) |
 |---------------------|-------------------|-----------|--------------------------|--------------------------------|---------------------|
-|   |             | 6dfd1ead416b49e9fab0b7362219965534945ad4       | Update README.md          |  |          |
-|   |             | 025d465422e53cb1222091ea25e39f4303273779       | Delete css directory      |  |          |
-|   |            | 5bb2aa9b6f8310e7363b0b912cc2d07558470961       | Add files via upload      |  |         |
-|   |            | ada6c0c2ad75e98ea1aef9cfcce1fdf820dc6d34       | Add files via upload      |  |         |
-|   |             | b85cd8f99c7f2a4c1dd72afa9d18bb3c34f554f4       | Initial commit            |  |          |
-|   | feature/responsive-design  | 7e4d9bc2f9a730e1548b1a72da3f048fc94372f1       | Add responsive design               |        |         |
+| https://github.com/AplicacionesWebGrupo1/Landing-page-CicloVia  | develop/styles.css | 095c8984d560b6c89642c83e6fa0aa174cd479c3      | Update styles.css       | -- | 25/04/2024  |
+| https://github.com/AplicacionesWebGrupo1/Landing-page-CicloVia  | develop/styles.css | 5d9df57242224132e812e6d1d08ac9ff04444a1f      | Update styles.css       | -- | 25/04/2024  |
+| https://github.com/AplicacionesWebGrupo1/Landing-page-CicloVia  | develop/styles.css | 50ea5bbbc28ddc5da6e4d9733d9de741da2284c8      | Update styles.css       | -- | 25/04/2024  |
+| https://github.com/AplicacionesWebGrupo1/Landing-page-CicloVia  | develop/styles.css | 515954cabfa0b51af2711f0abbccf02df94ac5d6      | Update styles.css       | -- | 25/04/2024  |
+| https://github.com/AplicacionesWebGrupo1/Landing-page-CicloVia  | develop/main.js    | 97254fa5eeddcd3edf48b9d46c1da7b777a51a96      | Update main.js          | -- | 25/04/2024  |
+| https://github.com/AplicacionesWebGrupo1/Landing-page-CicloVia  | develop/styles.css | 10079f0bb29125287d2f032d1ea0b855486947af      | Add responsive design   | -- | 25/04/2024  |
+| https://github.com/AplicacionesWebGrupo1/Landing-page-CicloVia  | develop/styles.css | 6b4e5c3c8c9f7200656f8833f63a0349d96b923e      | Add responsive design   | -- | 24/04/2024  |
+| https://github.com/AplicacionesWebGrupo1/Landing-page-CicloVia  | develop/styles.css | 5fed89d466e536fe1a3269b6576d2d47c1d423b6      | Add responsive design   | -- | 24/04/2024  |
+| https://github.com/AplicacionesWebGrupo1/Landing-page-CicloVia  | develop/index.html | b3159128247b46f26ec225fc5bc39d128d491866      | Update index.html       | -- | 23/04/2024  |
+| https://github.com/AplicacionesWebGrupo1/Landing-page-CicloVia  | develop            | 88b6d6d75da22b1771d8b680253758cb5578f4ef      | Add files via upload    | -- | 23/04/2024  |
+| https://github.com/AplicacionesWebGrupo1/Landing-page-CicloVia  | main               | 298312a3c7a372ee2a7dc252817d8f7035d34533      | added develop           | -- | 23/04/2024  |
+| https://github.com/AplicacionesWebGrupo1/Landing-page-CicloVia  | readme             | e6be8918dfc08256936e9563665d49f44c940bd5      | Update readme           | -- | 23/04/2024  |
+| https://github.com/AplicacionesWebGrupo1/Landing-page-CicloVia  | main               | cbbecf0db5b33c18c395ec0afbc752ae79526204      | Initial commit          | -- | 23/04/2024  |
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
 
@@ -126,7 +138,10 @@ Durante el desarrollo de este primer sprint no fueron realizados acceptance test
 Para este sprint, siendo el primero de nuestro proyecto, se pudo realizar una primera versión de nuestra Landing Page desplegada por medio de GitHub Pages. En esta se puede apreciar que están siendo aplicados todos los Style Guidelines establecidos para nuestro proyecto. A su vez, para este entregable, pudimos ofrecer una Landing Page que activamente le muestra al usuario lo que podrá realizar con nuestra aplicación al igual que múltiples call to action.
 
 Las siguientes imágenes son algunas capturas de nuestra landing.
-A continuación, por medio de este enlace, podrá visualizar una demostración del funcionamiento de nuestra landing page: 
+![ld1](https://github.com/user-attachments/assets/f5565ab7-c288-4bf3-a482-6b3dfa38977a)
+![ld2](https://github.com/user-attachments/assets/e03ac446-72ea-480d-bf96-18e8a56de5c3)
+
+A continuación, por medio de este enlace, podrá visualizar una demostración del funcionamiento de nuestra landing page: https://aplicacioneswebgrupo1.github.io/Landing-page-CicloVia/
 
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
@@ -161,7 +176,14 @@ Durante este sprint, se realizó el despliegue inicial de la **Landing Page** de
    - Verificación de enlaces, formularios y elementos interactivos para asegurar su correcto funcionamiento.
 
 ### Evidencias del Proceso de Despliegue
+Nos dirigimos a settings, pages
+![1-deploy](https://github.com/user-attachments/assets/46d6df40-1907-40e3-b2c0-7cf621e86ff2)
 
+En el apartado de branch seleccionamos la rama que contenga el codigo de nuestra landing page; en este caso "develop"
+![2-deploy](https://github.com/user-attachments/assets/c585cf3c-8355-438f-bcee-d0edd4bd28f6)
+
+Precionamos en "save". Hecho esto, tendremos que esperar unos minutos y tendremos el enlace de nuestra landing page desplegada.
+![3-deploy](https://github.com/user-attachments/assets/b15e440e-78d2-4f04-84f1-effd7682b7bb)
 
 
 #### 5.2.X.8. Team Collaboration Insights during Sprint
@@ -187,4 +209,6 @@ Finalmente, se llevaron a cabo pruebas exhaustivas para garantizar la calidad de
 ### Analíticos de Colaboración
 
 A continuación, se presentan capturas de los informes de colaboración en GitHub, donde se puede observar la participación de cada integrante en cuanto a commits y contribuciones.
+![Captura de pantalla 2025-04-25 033224](https://github.com/user-attachments/assets/cc0fe148-1001-410e-b0bf-1c13e1b7d40e)
+
 
