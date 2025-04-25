@@ -85,7 +85,7 @@ Desarrollados a partir de las entrevistas, para entender objetivos, motivaciones
 
 ![2.](Image/US1.png)
 
-![3.](image/US2.png)
+![3.](Image/US2.png)
 ---
 
 #### 2.3.2. User Task Matrix
