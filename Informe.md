@@ -1,7 +1,7 @@
 ----
 
 <p align="center">
-  <img src="[1](https://github.com/AplicacionesWebGrupo1/AppWebGrupo1_proyecto/blob/main/Image/universidad-peruana-de-ciencias-aplicadas-upc-logo-B98C3A365C-seeklogo.com.png)" alt="Logo UPC" width="200"/>
+  <img src="(https://github.com/AplicacionesWebGrupo1/AppWebGrupo1_proyecto/blob/main/Image/universidad-peruana-de-ciencias-aplicadas-upc-logo-B98C3A365C-seeklogo.com.png)" alt="Logo UPC" width="200"/>
 </p>
 
 <h2 align="center">Universidad Peruana de Ciencias Aplicadas</h2>
