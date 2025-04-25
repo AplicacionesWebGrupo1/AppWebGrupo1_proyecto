@@ -18,9 +18,9 @@ Nuestra Startup llamado CicloVía, busca enfocarse en personas que se apasionen 
   
 ![Santi](https://raw.githubusercontent.com/AplicacionesWebGrupo1/AppWebGrupo1_proyecto/refs/heads/main/Image/s.jfif)
 -----------------------------------------------------------------------------------------
-- Mi nombre es
-  
-![Santi]()
+- Mi nombre es Jhon Rony Huamani Aguilar. Estudiante de Ingeniería de Software. Tengo mas conocimientos para el area de front-end pero me gustaria especializarme en back end en el futuro.
+![ggg](https://github.com/user-attachments/assets/3771b629-1fb2-4603-9fee-0b63e76df009)
+
 
 # 1.2. Solution Profile
 ### 1.2.1.Antecedentes y problemática
