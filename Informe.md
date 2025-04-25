@@ -1,3 +1,34 @@
+----
+
+<p align="center">
+  <img src="https://seeklogo.com/images/U/universidad-peruana-de-ciencias-aplicadas-upc-logo-B98C3A365C-seeklogo.com.png" alt="Logo UPC" width="200"/>
+</p>
+
+<h2 align="center">Universidad Peruana de Ciencias Aplicadas</h2>
+
+---
+
+<p align="center">
+  Carrera: de Ingeniería de Software<br>
+  Ciclo: 2025-01<br><br>
+
+  Curso: Desarrollo de Aplicaciones Open Source<br>
+  Sección: 4380<br><br>
+
+  Informe del TB1<br>
+  Startup: Oasis<br>
+  Producto: Oasis Platform<br><br>
+
+  Integrantes:<br>
+  Juan Miguel Quijano Calderon<br>
+  Melina Liz Santillan Alvarado<br>
+  Santiago Alonso Gordillo Ramo<br>
+ Jhon Rony Huamani<br><br>
+
+  <strong> Abril del 2025 </strong>
+</p>
+
+
 # 1.1. Startup Profile
 ### 1.1.1.Descripcion de la startup
 Nuestra Startup llamado CicloVía, busca enfocarse en personas que se apasionen por el ciclismo. A veces es difícil encontrar rutas óptimas o lugares seguros para poder practicar este deporte, además de que a algunas personas le resulta difícil encontrar gente con su mismo gusto por el ciclismo. Es por ello, que estamos desarrollando un sistema que le permita a estas personas poder encontrar las rutas mas óptimas y seguras para poder seguir practicando de manera eficiente. Gracias a las diversas opciones de la aplicación, podrán visualizar foros, conocer otros ciclistas, encontrar lugares seguros, rutas seguras, etc.
