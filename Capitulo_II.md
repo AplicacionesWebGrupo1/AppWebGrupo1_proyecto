@@ -115,7 +115,7 @@ Desarrollados a partir de las entrevistas, para entender objetivos, motivaciones
 
 #### 2.3.4. Empathy Mapping
 
-![4.](Image/EmpathyMap.png)
+![4.](Image/Empathymap.png)
 ---
 
 #### 2.3.5. As-Is Scenario Mapping
