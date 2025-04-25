@@ -238,7 +238,7 @@ Desarrollados a partir de las entrevistas, para entender objetivos, motivaciones
 
 ![2.](https://github.com/AplicacionesWebGrupo1/AppWebGrupo1_proyecto/blob/main/Image/US1.png)
 
-![3.](Image/US2.png)
+![3.](https://github.com/AplicacionesWebGrupo1/AppWebGrupo1_proyecto/blob/main/Image/US2.png)
 ---
 
 #### 2.3.2. User Task Matrix
@@ -263,7 +263,7 @@ Desarrollados a partir de las entrevistas, para entender objetivos, motivaciones
 
 **Etapas comunes del usuario al usar CicloVía:**
 
-![4.](Image/JourneyMap.png)
+![(Image/JourneyMap.png)](https://github.com/AplicacionesWebGrupo1/AppWebGrupo1_proyecto/blob/main/Image/JourneyMap.png)
 ---
 
 #### 2.3.4. Empathy Mapping
