@@ -1,7 +1,7 @@
 ----
 
 <p align="center">
-  <img src="https://github.com/AplicacionesWebGrupo1/AppWebGrupo1_proyecto/blob/main/Image/universidad-peruana-de-ciencias-aplicadas-upc-logo-B98C3A365C-seeklogo.com.png" alt="Logo UPC" width="200"/>
+  <img src="https://github.com/AplicacionesWebGrupo1/AppWebGrupo1_proyecto/blob/main/Image/universidad-peruana-de-ciencias-aplicadas-upc-logo-B98C3A365C-seeklogo.com.png?raw=true" alt="Logo UPC" width="200"/>
 </p>
 
 <h2 align="center">Universidad Peruana de Ciencias Aplicadas</h2>
@@ -12,22 +12,23 @@
   Carrera: de Ingeniería de Software<br>
   Ciclo: 2025-01<br><br>
 
-  Curso: Desarrollo de Aplicaciones Open Source<br>
-  Sección: 4380<br><br>
+# Curso: Desarrollo de Aplicaciones Web<br>
+ ### Sección: 4380<br><br>
 
-  Informe del TB1<br>
-  Startup: Oasis<br>
-  Producto: Oasis Platform<br><br>
+  ### Informe del TB1<br>
+  ### Startup: Oasis<br>
+  ### Producto: Oasis App<br><br>
 
-  Integrantes:<br>
-  Juan Miguel Quijano Calderon<br>
-  Melina Liz Santillan Alvarado<br>
-  Santiago Alonso Gordillo Ramo<br>
- Jhon Rony Huamani<br><br>
+  ### Integrantes:<br>
+  - Juan Miguel Quijano Calderon<br>
+  - Melina Liz Santillan Alvarado<br>
+  - Santiago Alonso Gordillo Ramo<br>
+ - Jhon Rony Huamani<br><br>
 
   <strong> Abril del 2025 </strong>
 </p>
 
+---
 
 # 1.1. Startup Profile
 ### 1.1.1.Descripcion de la startup
@@ -249,7 +250,7 @@ El objetivo del análisis competitivo es investigar y evaluar los principales co
 Entrevista #1
 https://drive.google.com/file/d/1kUfgpdENFu7vPtqiBXHLwZ0pChm2oV74/view?usp=sharing
 
-![(Image/img_entrevista.png)](https://github.com/AplicacionesWebGrupo1/AppWebGrupo1_proyecto/blob/main/Image/img_entrevista.png)
+![1](https://github.com/AplicacionesWebGrupo1/AppWebGrupo1_proyecto/blob/main/Image/img_entrevista.png?raw=true)
 
 
 
@@ -257,7 +258,9 @@ https://drive.google.com/file/d/1kUfgpdENFu7vPtqiBXHLwZ0pChm2oV74/view?usp=shari
 
 #### 2.2.3. Análisis de entrevistas
 -La mayoría de personas conluyó que usaba una app para ubicarse con su bicicleta. Una de los entrevistados usaba Strava.
+
 -Todos concluyeron que el conocer si la zona por la que pasan es históricamente peligrosa.
+
 -La mitad consideraría el usar el foro.
 
 ---
@@ -267,9 +270,9 @@ https://drive.google.com/file/d/1kUfgpdENFu7vPtqiBXHLwZ0pChm2oV74/view?usp=shari
 
 Desarrollados a partir de las entrevistas, para entender objetivos, motivaciones, frustraciones y perfiles generales.
 
-![2.](https://github.com/AplicacionesWebGrupo1/AppWebGrupo1_proyecto/blob/main/Image/US1.png)
+![2.](https://raw.githubusercontent.com/AplicacionesWebGrupo1/AppWebGrupo1_proyecto/refs/heads/main/Image/US1.png)
 
-![3.](https://github.com/AplicacionesWebGrupo1/AppWebGrupo1_proyecto/blob/main/Image/US2.png)
+![3.](https://raw.githubusercontent.com/AplicacionesWebGrupo1/AppWebGrupo1_proyecto/refs/heads/main/Image/US2.png)
 ---
 
 #### 2.3.2. User Task Matrix
@@ -294,12 +297,12 @@ Desarrollados a partir de las entrevistas, para entender objetivos, motivaciones
 
 **Etapas comunes del usuario al usar CicloVía:**
 
-![(Image/JourneyMap.png)](https://github.com/AplicacionesWebGrupo1/AppWebGrupo1_proyecto/blob/main/Image/JourneyMap.png)
+![(Image/JourneyMap.png)](https://github.com/AplicacionesWebGrupo1/AppWebGrupo1_proyecto/blob/main/Image/JourneyMap.png?raw=true)
 ---
 
 #### 2.3.4. Empathy Mapping
 
-![4.](https://github.com/AplicacionesWebGrupo1/AppWebGrupo1_proyecto/blob/main/Image/Empathymap.png)
+![4.](https://github.com/AplicacionesWebGrupo1/AppWebGrupo1_proyecto/blob/main/Image/Empathymap.png?raw=true)
 ---
 
 #### 2.3.5. As-Is Scenario Mapping
@@ -482,7 +485,7 @@ Una vista preeliminar a cómo deberían estar estructuradas las clases del proye
 
 ### 4.7.1 Class Diadrams 
 
-![diagrama.](https://github.com/AplicacionesWebGrupo1/AppWebGrupo1_proyecto/blob/main/Image/diagrama.png)
+![diagrama.](https://github.com/AplicacionesWebGrupo1/AppWebGrupo1_proyecto/blob/main/Image/diagrama.png?raw=true)
 
 ### 4.7.2 Class Dictionary
 
@@ -598,7 +601,7 @@ Una vista preeliminar a cómo deberían estar estructuradas las clases del proye
 ## 4.8 Database Desing
 El diseño inicial a utilizar en la base de datos se hizo para que tuviera coherencia con el diagrama de clases. Nos permitirá un manejo más eficiente de los datos a utilizar.
 
-![DB.](https://github.com/AplicacionesWebGrupo1/AppWebGrupo1_proyecto/blob/main/Image/diagrama_DB.png)
+![DB.](https://github.com/AplicacionesWebGrupo1/AppWebGrupo1_proyecto/blob/main/Image/diagrama_DB.png?raw=true)
 
 ---
 
@@ -812,51 +815,5 @@ Finalmente, se llevaron a cabo pruebas exhaustivas para garantizar la calidad de
 
 A continuación, se presentan capturas de los informes de colaboración en GitHub, donde se puede observar la participación de cada integrante en cuanto a commits y contribuciones.
 ![Captura de pantalla 2025-04-25 033224](https://github.com/user-attachments/assets/cc0fe148-1001-410e-b0bf-1c13e1b7d40e)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
