@@ -40,6 +40,10 @@ Epic
 
 3.3. Impact Mapping.
 
+| Goal | Actor | Impact | Deliverable |
+|------|-------|--------|-------------|
+| Proteger a los ciclistas de las rutas inseguras que existen en Lima | Ciclista | - Participar en foros de ciclistas - Revisar los avisos de inseguridad y de tráfico | Sugerencia de rutas óptimas y seguras |
+
 3.4. Product Backlog.
 | # Orden | User Story Id | Título | Descripción | Story Points (1/2/3/5/8) |
 |---------|---------------|--------|-------------|--------------------------|
