@@ -236,7 +236,7 @@ https://drive.google.com/file/d/1kUfgpdENFu7vPtqiBXHLwZ0pChm2oV74/view?usp=shari
 
 Desarrollados a partir de las entrevistas, para entender objetivos, motivaciones, frustraciones y perfiles generales.
 
-![2.](Image/US1.png)
+![2.]([Image/US1.png](https://github.com/AplicacionesWebGrupo1/AppWebGrupo1_proyecto/blob/main/Image/US1.png))
 
 ![3.](Image/US2.png)
 ---
