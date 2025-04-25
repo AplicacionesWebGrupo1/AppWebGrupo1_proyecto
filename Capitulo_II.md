@@ -65,7 +65,7 @@ El objetivo del análisis competitivo es investigar y evaluar los principales co
 Entrevista #1
 https://drive.google.com/file/d/1kUfgpdENFu7vPtqiBXHLwZ0pChm2oV74/view?usp=sharing
 
-![1.](image/img_entrevista.png)
+![1.](Image/img_entrevista.png)
 
 
 
@@ -83,7 +83,7 @@ https://drive.google.com/file/d/1kUfgpdENFu7vPtqiBXHLwZ0pChm2oV74/view?usp=shari
 
 Desarrollados a partir de las entrevistas, para entender objetivos, motivaciones, frustraciones y perfiles generales.
 
-![2.](image/US1.png)
+![2.](Image/US1.png)
 
 ![3.](image/US2.png)
 ---
@@ -110,12 +110,12 @@ Desarrollados a partir de las entrevistas, para entender objetivos, motivaciones
 
 **Etapas comunes del usuario al usar CicloVía:**
 
-![4.](image/JourneyMap.png)
+![4.](Image/JourneyMap.png)
 ---
 
 #### 2.3.4. Empathy Mapping
 
-![4.](image/EmpathyMap.png)
+![4.](Image/EmpathyMap.png)
 ---
 
 #### 2.3.5. As-Is Scenario Mapping
