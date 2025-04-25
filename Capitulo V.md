@@ -32,8 +32,6 @@ Evidencia de la creacion del repositorio de trabajo:
 Creacion de las ramas de trabajo (branchs):
 ![brach](https://github.com/user-attachments/assets/05ed2b89-c25a-427c-9c40-46d9ce7399b3)
 
-Commits de evidencia del trabajo: (PENDIENTE PARA EL FINAL)
-
 Enlace del repositorio: https://github.com/AplicacionesWebGrupo1/AppWebGrupo1_proyecto
 
 ### 5.1.3. Source Code Style Guide & Conventions
