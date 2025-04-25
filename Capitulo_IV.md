@@ -67,7 +67,7 @@ Acerca de
 ![About](https://github.com/user-attachments/assets/366da274-d210-43a8-ac64-18383e4d0295)
 
 Descubre
-![Descubre](https://github.com/user-attachments/assets/c8d627a1-320a-4561-b038-aa069917cad8
+![Descubre](https://github.com/user-attachments/assets/77642cd9-42d5-4ff4-9be1-d21db0574655)
 
 Features
 ![Features](https://github.com/user-attachments/assets/47d48dba-d130-493f-884c-f2c370fc947f)
