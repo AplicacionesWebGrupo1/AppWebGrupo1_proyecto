@@ -302,8 +302,272 @@ Se definió un lenguaje común entre todos los actores del proyecto (diseñadore
 ---
 
 
+Capítulo III: Requirements Specification
+
+3.1. To-Be Scenario Mapping.
+
+| | Conciencia de problema | Búsqueda de información | Intento de acción | Reflexión y ajustes |
+|-|------------------------|-------------------------|-------------------|---------------------|
+| Doing | - Empiezo a usar la bici con más frecuencia. - Noto que algunas rutas se sienten inseguras o poco prácticas. - Tengo dificultades para estacionar con confianza. | - Busco aplicaciones web en internet - Realizo una investigación en grupos sobre aplicaciones web de rutas | - Empiezo a usar la aplicación web CicloVía para buscar una solución a mis problemas con las rutas y estacionamientos | - Empiezo a usar Ciclovía con más frecuencia para buscar rutas seguras y estacionamientos cercanos |
+| Thinking | “Hay muchos autos en esta zona, no sé si es seguro.” “¿Dónde puedo dejar la bici sin preocuparme?” | “Me recomendaron una aplicación web llamada CicloVía, asi que lo voy a probar | “Pienso que la aplicación web es muy interesante porque tiene varias funciones” | “CicloVía me ayuda a reducir mi tiempo de búsqueda de rutas y estacionamientos” |
+| Feeling | - Ansiedad por la inseguridad de ciertas calles. - Incomodidad por tener que improvisar constantemente rutas o soluciones. | - Me siento curioso porque voy a probar una nueva aplicación web relacionada a las rutas | - Me siento tranquilo porque la aplicación web fue bueno y sus funcionales son de mucha ayuda | - Me siento feliz porque ahora podré mantenerme seguro y lograré ahorrar tiempo en mi búsqueda de estacionamientos y rutas |
+
+3.2. User Stories.
+
+Epic
+| Epic id | Título | Descripción |
+|---------|--------|-------------|
+| 1 | Estacionamiento de bicicletas | Como ciclista, deseo saber que estacionamiento están cercanos a mi ubicación, cuantos espacios disponibles hay, además de poder escribir una reseña sobre el estacionamiento para reducir mi tiempo de búsqueda de estacionamientos. |
+| 2 | Foro | Como ciclista, deseo tener acceso a un foro para realizar diversas publicaciones y tener interacciones con otros ciclistas. |
+| 3 | Acceso a tiendas | Como ciclista, deseo saber que tiendas tienen relación con las bicicletas para poder realizar las compras para mi bicicleta más rápido. |
+| 4 | Búsqueda de rutas | Como ciclista, deseo buscar las rutas más seguras, tener diversos avisos sobre una ruta, además de poder calificar la ruta para ahorrar tiempo en mi búsqueda de rutas. |
+| 5 | Landing page | Como ciclista, deseo que el landing page tenga secciones con información importante para conocer y entender la aplicación. |
+| 6 | Validación de usuario | Como desarrollador, deseo que la aplicación valide a todos los usuarios que envíen sus datos en el inicio de sesión para que la aplicación sea segura para los usuarios. |
+
+| Epic/Story ID | Título | Descripción | Criterios de aceptación | Relacionado con (Epic ID) |
+|---------|---------------|--------|-------------|--------------------------|
+| 1 | Estacionamiento cercanos | Como ciclista, deseo saber que estacionamientos estan cercanos a mi ubicación para ahorrar tiempo en mi busqueda de estacionamientos. | **Escenario: Ingresar a estacionamientos** Dado que el ciclista se encuentra en el inicio Cuando el ciclista selecciona el botón “Estacionamientos” Entonces el sistema muestra los estacionamientos disponibles **Escenario: Buscar estacionamientos cercanos** Dado que el ciclista se encuentra en “Estacionamientos” Cuando el ciclista selecciona el botón “Estacionamientos cercanos” Entonces el sistema muestra los estacionamientos más cercanos a la ubicación del ciclista | 1 |
+| 2 | Espacios libres en estacionamientos | Como ciclista, deseo saber cuantos espacios disponibles hay en un estacionamiento para saber si podré estacionar mi bicicleta. | **Escenario: Cantidad de espacios disponibles** Dado que el ciclista se encuentra en “Estacionamientos” Cuando el ciclista selecciona un estacionamiento Entonces el sistema muestra la cantidad de espacios disponibles | 1 |
+| 3 | Reseña sobre estacionamiento | Como ciclista, deseo hacer una reseña sobre un estacionamiento para poder compartir mi experiencia sobre un estacionamiento. | **Escenario: Escribir una reseña** Dado que el usuario ha seleccionado un estacionamiento Cuando el ciclista selecciona el botón “Reseña” Entonces el sistema permite que el ciclista pueda escribir y publicar una reseña sobre el estacionamiento | 1 |
+| 4 | Acceso a foro | Como ciclista, deseo acceder a un foro para poder comunicarme con otros ciclistas. | **Escenario: Opción de foro** Dado que el ciclista se encuentra en el inicio Cuando el ciclista seleccione el botón “Foro” Entonces el sistema muestra las publicaciones del foro sobre ciclistas | 2 |
+| 5 | Subir imágenes y videos al foro | Como ciclista, deseo subir imágenes y videos al foro para que mis publicaciones sean mejores. | **Escenario: Subir videos y fotos** Dado que el ciclista se encuentra en el “Foro” Cuando el ciclista selecciona “Subir publicación” Entonces el sistema permite agregar imágenes y videos a la publicación | 2 |
+| 6 | Reportar a un usuario | Como ciclista, deseo reportar un usuario para que la aplicación tenga un buen ambiente para los ciclistas. | **Escenario: Reporte sobre un usuario** Dado que el ciclista se encuentra en el inicio Cuando el ciclista seleccione el icono de alerta Entonces el sistema permite que el ciclista pueda hacer un reporte sobre un usuario | 2 |
+| 7 | Seguir a otro usuario | Como ciclista, deseo seguir a otro usuario en la aplicación para que sus publicaciones sean prioritarias cuando ingrese al foro. | **Escenario: Seguir a usuario** Dado que el ciclista se encuentra en el foro Cuando el ciclista haga click al nombre de un usuario Entonces el sistema le muestra la opción de seguir | 2 |
+| 8 | Buscar tiendas relacionadas a las bicicletas | Como ciclista, deseo buscar tiendas relacionadas al ciclismo en la aplicación para poder realizar alguna compra para mi bicicleta. | **Escenario: Buscar tienda** Dado que el ciclista se encuentra en el inicio Cuando el ciclista seleccione el icono de una tienda Entonces el sistema le muestra las tiendas disponibles | 3 |
+| 9 | Buscar rutas seguras | Como ciclista, deseo buscar rutas seguras para mantenerme a salvo. | **Escenario: Búsqueda de rutas seguras** Dado que el ciclista se encuentra en el inicio Cuando el ciclista seleccione el botón “Rutas” Entonces el sistema muestra todas las rutas seguras según la ubicación del ciclista | 4 |
+| 10 | Aviso de inseguridad | Como ciclista, deseo recibir alertas sobre inseguridad sobre una ruta para poder tener más cuidado. | **Escenario: Alerta de inseguridad** Dado que el ciclista se encuentra en “Rutas” Cuando el ciclista seleccione una ruta Entonces el sistema le muestra un aviso de inseguridad en el caso que exista | 4 |
+| 11 | Aviso de tráfico | Como ciclista, deseo recibir alertas de tráfico para tomar mis precauciones. | **Escenario: Alerta de tráfico** Dado que el ciclista se encuentra en “Rutas Cuando el ciclista seleccione una ruta Entonces el sistema le muestra un aviso de tráfico en el caso que exista | 4 |
+| 12 | Calificar una ruta | Como ciclista, deseo calificar una ruta para que los demás ciclistas puedan tener conocimiento si una ruta es buena o mala. | **Escenario: Calificación a ruta** Dado que el ciclista se encuentra en “Rutas” Cuando el ciclista seleccione una ruta Entonces el sistema muestra la opción de calificar una ruta, el cual es de 1 a 5 estrellas | 4 |
+| 13 | Información importante sobre la aplicación | Como ciclista, deseo que el landing page tenga secciones con información importante para mantenerme informado sobre la aplicación. | **Escenario: Acceso a información importante** Dado que el ciclista se encuentra en el landing page Cuando el ciclista selecciona alguna opción de las secciones del encabezado Entonces el sistema muestra la información de la sección que ha sido seleccionada | 5 |
+| 14 | Contacto de información | Como ciclista, deseo que el landing page tenga contactos de información para poder contactarme rápidamente con servicio al cliente. | **Escenario: Acceso a contacto** Dado que el ciclista se encuentra en el landing page Cuando el ciclista seleccione la opción “Contacto” Entonces el sistema muestra los contactos disponibles para el servicio al cliente | 5 |
+| 15 | Validación de usuario | Como desarrollador, deseo validar a los usuarios cuando envien su información en el inicio de sesión para que la aplicación sea segura y óptima. | **Escenario: Validar usuario** Dado que el ciclista se encuentra en el inicio de sesión Cuando el ciclista envia sus datos en el inicio de sesión Entonces el sistema valida si los datos del usuario son correctos o no | 6 |
+
+3.3. Impact Mapping.
+
+| Goal | Actor | Impact | Deliverable |
+|------|-------|--------|-------------|
+| Proteger a los ciclistas de las rutas inseguras que existen en Lima | Ciclista | - Participar en foros de ciclistas - Revisar los avisos de inseguridad y de tráfico | Sugerencia de rutas óptimas y seguras |
+
+3.4. Product Backlog.
+| # Orden | User Story Id | Título | Descripción | Story Points (1/2/3/5/8) |
+|---------|---------------|--------|-------------|--------------------------|
+| 1 | 1 | Estacionamiento cercanos | Como ciclista, deseo saber que estacionamientos estan cercanos a mi ubicación para ahorrar tiempo en mi busqueda de estacionamientos. | 5 |
+| 2 | 2 | Espacios libres en estacionamientos | Como ciclista, deseo saber cuantos espacios disponibles hay en un estacionamiento para saber si podré estacionar mi bicicleta. | 3 |
+| 3 | 3 | Reseña sobre estacionamiento | Como ciclista, deseo hacer una reseña sobre un estacionamiento para poder compartir mi experiencia sobre un estacionamiento. | 3 |
+| 4 | 4 | Acceso a foro | Como ciclista, deseo acceder a un foro para poder comunicarme con otros ciclistas. | 8 |
+| 5 | 5 | Subir imágenes y videos al foro | Como ciclista, deseo subir imágenes y videos al foro para que mis publicaciones sean mejores. | 3 |
+| 6 | 6 | Reportar a un usuario | Como ciclista, deseo reportar un usuario para que la aplicación tenga un buen ambiente para los ciclistas. | 3 |
+| 7 | 7 | Seguir a otro usuario | Como ciclista, deseo seguir a otro usuario en la aplicación para que sus publicaciones sean prioritarias cuando ingrese al foro. | 5 |
+| 8 | 8 | Buscar tiendas relacionadas a las bicicletas | Como ciclista, deseo buscar tiendas relacionadas al ciclismo en la aplicación para poder realizar alguna compra para mi bicicleta. | 5 |
+| 9 | 9 | Buscar rutas seguras | Como ciclista, deseo buscar rutas seguras para mantenerme a salvo. | 5 |
+| 10 | 10 | Aviso de inseguridad | Como ciclista, deseo recibir alertas sobre inseguridad sobre una ruta para poder tener más cuidado. | 3 |
+| 11 | 11 | Aviso de tráfico | Como ciclista, deseo recibir alertas de tráfico para tomar mis precauciones. | 3 |
+| 12 | 12 | Calificar una ruta | Como ciclista, deseo calificar una ruta para que los demás ciclistas puedan tener conocimiento si una ruta es buena o mala. | 3 |
+| 13 | 13 | Información importante sobre la aplicación | Como ciclista, deseo que el landing page tenga secciones con información importante para mantenerme informado sobre la aplicación. | 2 |
+| 14 | 14 | Contacto de información | Como ciclista, deseo que el landing page tenga contactos de información para poder contactarme rápidamente con servicio al cliente. | 2 |
+| 15 | 15 | Validación de usuario | Como desarrollador, deseo validar a los usuarios cuando envien su información en el inicio de sesión para que la aplicación sea segura y óptima. | 8 |
 
 
+---
+
+# 4.1. Style Guidelines
+### 4.1.1. General Style Guidelines
+### Tipografía
+Para la tipografía se utilizo una que permite una buena visualización del texto. Para los tamaños que se va utilizar dependerá si es un título o texto de contenido.
+
+### Colores
+Se tendrá dos principales colores, los cuales son amarillo y azul. La razón, por la cual se elegio es debido a su gran combinación. Por otro lado, estos colores se utilizarán en el texto para que pueda darle un mejor aspecto.
+
+### 4.1.2. Web Style Guidelines
+### Imágenes
+Para las imágenes se utiliza diseños coloridos para llamar la atención del usuario. Además, se utilizarán diferentes tamaños de imágenes para que el usuario pueda visualizarlo.
+
+### Botones
+Para los botones se utilizará colores relacionados con la plataforma para que puedan tener un aspecto agradable. Además, los botones tendrán varios tipos de tamaños para que usuario pueda encontrarlos con facilidad.
+
+# 4.2. Information Architecture
+### 4.2.1. Organization Systems
+
+La interfaz muestra una organización jerárquica clara
+
+- En la primera pantalla, el enfoque está completamente centrado en el inicio de sesión, presentándolo como el primer paso esencial para acceder a la aplicación.
+
+- En la segunda pantalla , se utiliza una organización secuencial donde el usuario primero debe seleccionar su ruta a través del campo “Ingresa destino”, seguido por la visualización del mapa y los filtros disponibles. 
+
+### 4.2.2. Labeling Systems
+
+- Arriba en la segunda pantalla, el encabezado “Selecciona tu ruta” resume claramente el propósito actual de la vista.
+
+- Los botones en el lado derecho tienen etiquetas concisas como: “Filtros”, “seguridad”, “tiempo”, “recomendaciones”, y “rutas guardadas”, que indican de forma clara las funciones disponibles para el usuario.
+
+- La barra de navegación lateral se representa con un icono de tras rayas, lo cual es común para agrupar funciones o secciones.
+
+### 4.2.3. SEO Tags and Meta Tags
+
+Se utilizaran etiquetas meta para optimizar el posicionamiento y el contenido del sitio web. Estas etiquetas permitirán mejorar el análisis de los motores de búsqueda y la estructuración del sitio.
+
+```html
+<title>Register your processes with CicloVia</title>
+<meta charset="utf-8">
+<meta name="description" content="CicloVia is a web application focused on cycling."/>
+<meta name="author" content="CicloVia"/>
+<meta name="copyright" content="Copyright CicloVia team" />
+```
+### 4.2.4. Searching Systems
+
+- El campo “Ingresa destino” permite a los usuarios buscar rutas específicas, representando el sistema de búsqueda principal de la pantalla.
+
+- Esto facilita tanto a conductores como a pasajeros encontrar coincidencias según su ubicación y preferencias.
+
+### 4.2.5. Navigation Systems
+
+- El menú superior contiene un botón de regreso, ayudando a mantener una navegación fluida.
+
+- La barra lateral sirve para acceder a otras secciones como perfil, historial, etc.
+
+- El desplazamiento dentro del mapa y los filtros por categorías permiten una navegación detallada dentro de esta vista sin saturar la interfaz.
+
+### 4.3.1. Landing Page Wireframe
+A continuación se muestran algunas imágenes correspondientes  a los wireframe de la página elaborados en figma.
+Login 
+![Login](https://github.com/user-attachments/assets/253b0f87-aa73-47fb-b3a2-febf06d340f8)
+
+Ventana principal
+![Main](https://github.com/user-attachments/assets/58c24610-2fa4-4e87-bf01-c5622dfe359f)
+
+Acerca de
+![About](https://github.com/user-attachments/assets/366da274-d210-43a8-ac64-18383e4d0295)
+
+Descubre
+![Descubre](https://github.com/user-attachments/assets/77642cd9-42d5-4ff4-9be1-d21db0574655)
+
+Features
+![Features](https://github.com/user-attachments/assets/47d48dba-d130-493f-884c-f2c370fc947f)
+
+Todos los demas wireframes de la landing page se encuentran ubicabos en: https://www.figma.com/design/nouIUi5rcJWhtBMA4cKlQk/Untitled?node-id=0-1&t=ah4JOvPVGWKJwY3K-1
+ 
+## 4.7. Software Object-Oriented Design
+Una vista preeliminar a cómo deberían estar estructuradas las clases del proyecto.
+
+### 4.7.1 Class Diadrams 
+
+![diagrama.](https://github.com/AplicacionesWebGrupo1/AppWebGrupo1_proyecto/blob/main/Image/diagrama.png)
+
+### 4.7.2 Class Dictionary
+
+ # Usuario
+| Atributo              | Tipo de Dato | Descripción |
+|-----------------------|--------------|-------------|
+| usu_id                | INT          | Identificador único del usuario. |
+| usu_nombre            | VARCHAR      | Nombre completo del usuario. |
+| usu_email             | VARCHAR      | Correo electrónico del usuario. |
+| usu_password          | VARCHAR      | Contraseña encriptada del usuario. |
+| usu_fecha_registro    | DATE         | Fecha de registro en la plataforma. |
+
+---
+
+#  Ruta
+| Atributo              | Tipo de Dato | Descripción |
+|-----------------------|--------------|-------------|
+| rut_id                | INT          | Identificador único de la ruta. |
+| rut_nombre            | VARCHAR      | Nombre descriptivo de la ruta. |
+| rut_origen            | VARCHAR      | Punto de origen de la ruta. |
+| rut_destino           | VARCHAR      | Punto final de la ruta. |
+| rut_seguridad_nivel   | INT          | Nivel de seguridad (1 a 5). |
+| rut_hora_pico_alerta  | BOOLEAN      | Indica si la ruta tiene tramos de alta congestión. |
+
+---
+
+# AlertaTramo
+| Atributo              | Tipo de Dato | Descripción |
+|-----------------------|--------------|-------------|
+| alt_id                | INT          | Identificador único de la alerta. |
+| alt_rut_id            | INT (FK)     | Ruta asociada. |
+| alt_descripcion       | TEXT         | Descripción del tramo inseguro. |
+| alt_latitud           | DECIMAL      | Latitud del tramo. |
+| alt_longitud          | DECIMAL      | Longitud del tramo. |
+
+---
+
+# RutaUsuario
+| Atributo              | Tipo de Dato | Descripción |
+|-----------------------|--------------|-------------|
+| rtu_id                | INT          | Identificador único del registro. |
+| rtu_usu_id            | INT (FK)     | Usuario que eligió la ruta. |
+| rtu_rut_id            | INT (FK)     | Ruta seleccionada. |
+| rtu_fecha             | DATETIME     | Fecha y hora del recorrido. |
+| rtu_calificacion      | INT          | Calificación de la ruta por el usuario. |
+
+---
+
+# Estacionamiento
+| Atributo              | Tipo de Dato | Descripción |
+|-----------------------|--------------|-------------|
+| est_id                | INT          | Identificador único del estacionamiento. |
+| est_nombre            | VARCHAR      | Nombre del estacionamiento. |
+| est_latitud           | DECIMAL      | Latitud. |
+| est_longitud          | DECIMAL      | Longitud. |
+| est_espacios_totales  | INT          | Capacidad total. |
+| est_espacios_dispon   | INT          | Espacios disponibles. |
+
+---
+
+# PuntoCiclista
+| Atributo              | Tipo de Dato | Descripción |
+|-----------------------|--------------|-------------|
+| pct_id                | INT          | Identificador único. |
+| pct_tipo              | VARCHAR      | Tipo (repuestos, mantenimiento, etc.). |
+| pct_nombre            | VARCHAR      | Nombre del lugar. |
+| pct_latitud           | DECIMAL      | Latitud. |
+| pct_longitud          | DECIMAL      | Longitud. |
+
+---
+
+# ForoPost
+| Atributo              | Tipo de Dato | Descripción |
+|-----------------------|--------------|-------------|
+| fp_id                 | INT          | ID del post. |
+| fp_usu_id             | INT (FK)     | Usuario que publicó. |
+| fp_titulo             | VARCHAR      | Título del post. |
+| fp_contenido          | TEXT         | Contenido del post. |
+| fp_fecha_publicacion  | DATETIME     | Fecha de publicación. |
+
+---
+
+# ForoMultimedia
+| Atributo              | Tipo de Dato | Descripción |
+|-----------------------|--------------|-------------|
+| fm_id                 | INT          | ID del archivo multimedia. |
+| fm_fp_id              | INT (FK)     | Post relacionado. |
+| fm_url                | TEXT         | URL del archivo (imagen/video). |
+| fm_tipo               | VARCHAR      | Tipo de archivo (imagen, video). |
+
+---
+
+# ForoReporte
+| Atributo              | Tipo de Dato | Descripción |
+|-----------------------|--------------|-------------|
+| frp_id                | INT          | ID del reporte. |
+| frp_fp_id             | INT (FK)     | Post reportado. |
+| frp_usu_id            | INT (FK)     | Usuario que reporta. |
+| frp_motivo            | TEXT         | Motivo del reporte. |
+| frp_fecha             | DATETIME     | Fecha del reporte. |
+
+---
+
+# Seguimiento
+| Atributo              | Tipo de Dato | Descripción |
+|-----------------------|--------------|-------------|
+| seg_id                | INT          | ID de seguimiento. |
+| seg_seguidor_id       | INT (FK)     | Usuario que sigue. |
+| seg_seguido_id        | INT (FK)     | Usuario seguido. |
+| seg_fecha             | DATETIME     | Fecha de inicio del seguimiento. |
+---
+
+## 4.8 Database Desing
+El diseño inicial a utilizar en la base de datos se hizo para que tuviera coherencia con el diagrama de clases. Nos permitirá un manejo más eficiente de los datos a utilizar.
+
+![DB.](https://github.com/AplicacionesWebGrupo1/AppWebGrupo1_proyecto/blob/main/Image/diagrama_DB.png)
 
 
 
