@@ -218,7 +218,7 @@ El objetivo del análisis competitivo es investigar y evaluar los principales co
 Entrevista #1
 https://drive.google.com/file/d/1kUfgpdENFu7vPtqiBXHLwZ0pChm2oV74/view?usp=sharing
 
-![1.](Image/img_entrevista.png)
+![(Image/img_entrevista.png)](https://github.com/AplicacionesWebGrupo1/AppWebGrupo1_proyecto/blob/main/Image/img_entrevista.png)
 
 
 
@@ -268,7 +268,7 @@ Desarrollados a partir de las entrevistas, para entender objetivos, motivaciones
 
 #### 2.3.4. Empathy Mapping
 
-![4.](Image/Empathymap.png)
+![4.](https://github.com/AplicacionesWebGrupo1/AppWebGrupo1_proyecto/blob/main/Image/Empathymap.png)
 ---
 
 #### 2.3.5. As-Is Scenario Mapping
