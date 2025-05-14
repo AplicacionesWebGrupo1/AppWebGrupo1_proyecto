@@ -805,4 +805,39 @@ Finalmente, se llevaron a cabo pruebas exhaustivas para garantizar la calidad de
 A continuación, se presentan capturas de los informes de colaboración en GitHub, donde se puede observar la participación de cada integrante en cuanto a commits y contribuciones.
 ![Captura de pantalla 2025-04-25 033224](https://github.com/user-attachments/assets/cc0fe148-1001-410e-b0bf-1c13e1b7d40e)
 
+### 5.2.2. Sprint 2
 
+#### 5.2.2.1. Sprint Planning 2
+
+| **Sprint #**                        | 1                                                                                              |
+|-----------------------------------|------------------------------------------------------------------------------------------------|
+| **Date**                           | 02/05/2025                                                                                   |
+| **Time**                           | 11:30 AM                                                                                       |
+| **Location**                       | Zoom Meetings                                                                                  |
+| **Prepared By**                    | Santiago Gordillo                                                                                  |
+| **Attendees (to planning meeting)**|Jhon Huamani, Melina Santillan|
+
+**Introducción:**
+
+El equipo se reunió para planificar el Sprint 2 del proyecto, cuyo enfoque principal es la creación de la landing page con sus respectivas funcionalidades para la experiencia del usuario.
+
+**Sum of Story Points:**  
+El equipo ha asignado un total de **30 puntos** distribuidos en **3 User Stories**.
+
+#### 5.2.2.2. Sprint Backlog 2
+
+**Objetivo del Sprint**
+El objetivo principal de este sprint es completar la estructura y los elementos interactivos de la landing page, aplicando estilos visuales consistentes y asegurando la funcionalidad de los formularios. Se busca que la página sea completamente operativa y esté lista para las pruebas finales de usabilidad y ajuste, basándose en el feedback recibido.
+
+
+| **Sprint #** | **Sprint 2** |
+|--------------|--------------|
+
+| **User Story** | **Work-Item / Task** |
+|--------------|--------------|
+
+| **ID**        | **Title**                                | **Id**  | **Title**                     | **Description**                                                    | **Estimation (Hours)** | **Assigned To**                    | **Status** |
+|--------------|------------------------------------------|---------|-------------------------------|--------------------------------------------------------------------|------------------------|-----------------------------------|------------|
+| 1        | Estacionamiento cercanos  | T001    | Crear la estructura           | Implementar la lógica y diseñar la interfaz para el acceso de estacionamientos.      | 6                      | Melina Santillan        | Done      |
+| 2        | 	Acceso al    foro    | T002    | Diseñar la página de acceso al foro           | Aplicar el diseño visual utilizando CSS y aplicar la lógica para la funcionalidad. | 4                      | Santiago Gordillo          | Done     |
+| 3        | Buscar rutas seguras  | T003    | Diseñar la interfaz y funcionalidad | Desarrollar la lógica que permita visualizar las rutas y la interfaz. | 8                      | Jhon Huamani       | Done       |
