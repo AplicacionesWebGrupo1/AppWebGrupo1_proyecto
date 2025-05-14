@@ -20,7 +20,6 @@
   ### Producto: Oasis App<br><br>
 
   ### Integrantes:<br>
-  - Juan Miguel Quijano Calderon<br>
   - Melina Liz Santillan Alvarado<br>
   - Santiago Alonso Gordillo Ramo<br>
  - Jhon Rony Huamani<br><br>
@@ -38,9 +37,6 @@ Nuestra Startup llamado CicloVía, busca enfocarse en personas que se apasionen 
 ##### Visión: Ser la principal aplicación de ayuda a los ciclistas.
 ### 1.1.2. Perfil de los integrantes
 
-- Mi nombre es Juan Quijano, tengo 20 años y soy un estudiante de la carrera de Ingeniería de Software. Tengo conocimientos intermedios en programación y quisiera dedicarme eventualmente al desarrollo y uso de IA.
-  
-![Juan](https://raw.githubusercontent.com/AplicacionesWebGrupo1/AppWebGrupo1_proyecto/refs/heads/main/Image/integrante%20(1).jpg)
 -----------------------------------------------------------------------------------------
 - Mi nombre es Santiago Gordillo Ramos soy estudiante de ingeniería de software, tengo 21 años. Me gusta el lenguaje python y tengo conocimiento intermedio en los demás lenguajes.
 
