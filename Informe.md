@@ -439,13 +439,6 @@ La interfaz muestra una organización jerárquica clara
 ### 4.2.3. SEO Tags and Meta Tags
 
 Se utilizaran etiquetas meta para optimizar el posicionamiento y el contenido del sitio web. Estas etiquetas permitirán mejorar el análisis de los motores de búsqueda y la estructuración del sitio.
-
-```html
-<title>Register your processes with CicloVia</title>
-<meta charset="utf-8">
-<meta name="description" content="CicloVia is a web application focused on cycling."/>
-<meta name="author" content="CicloVia"/>
-<meta name="copyright" content="Copyright CicloVia team" />
 ```
 ### 4.2.4. Searching Systems
 
