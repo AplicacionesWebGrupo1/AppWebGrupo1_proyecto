@@ -1,51 +1,4 @@
-# AppWebGrupo1_proyecto
-
-Carátula
-Universidad, carrera, ciclo
-Código del Curso y Nombre del curso
-Sección
-Nombre del profesor
-"Informe de Trabajo Final"
-Nombre del startup
-Nombre del producto
-Relación de integrantes (Incluyendo en cada caso Código, Apellidos y Nombres)
-Mes y año
-5/36
-Registro de Versiones del Informe
-Project Report Collaboration Insights
-Contenido
-Tabla de contenidos
-Student Outcome
-Capítulo I: Introducción
-1.1. Startup Profile
-1.1.1. Descripción de la Startup
-1.1.2. Perfiles de integrantes del equipo
-1.2. Solution Profile
-1.2.1 Antecedentes y problemática
-1.2.2 Lean UX Process.
-1.2.2.1. Lean UX Problem Statements.
-1.2.2.2. Lean UX Assumptions.
-1.2.2.3. Lean UX Hypothesis Statements.
-1.2.2.4. Lean UX Canvas.
-1.3. Segmentos objetivo.
-Capítulo II: Requirements Elicitation & Analysis
-2.1. Competidores.
-2.1.1. Análisis competitivo.
-2.1.2. Estrategias y tácticas frente a competidores.
-2.2. Entrevistas.
-2.2.1. Diseño de entrevistas.
-2.2.2. Registro de entrevistas.
-2.2.3. Análisis de entrevistas.
-2.3. Needfinding.
-2.3.1. User Personas.
-2.3.2. User Task Matrix.
-2.3.3. User Journey Mapping.
-2.3.4. Empathy Mapping.
-2.3.5. As-is Scenario Mapping.
-2.4. Ubiquitous Language.
-Capítulo III: Requirements Specification
-3.1. To-Be Scenario Mapping.
-3.2. User Stories.
+## 3.2. User Stories.
 
 Epic
 | Epic id | Título | Descripción |
@@ -76,7 +29,7 @@ Epic
 | 15 | Validación de usuario | Como desarrollador, deseo validar a los usuarios cuando envien su información en el inicio de sesión para que la aplicación sea segura y óptima. | **Escenario: Validar usuario** Dado que el ciclista se encuentra en el inicio de sesión Cuando el ciclista envia sus datos en el inicio de sesión Entonces el sistema valida si los datos del usuario son correctos o no | 6 |
 3.3. Impact Mapping.
 
-3.4. Product Backlog.
+## 3.4. Product Backlog.
 | # Orden | User Story Id | Título | Descripción | Story Points (1/2/3/5/8) |
 |---------|---------------|--------|-------------|--------------------------|
 | 1 | 1 | Estacionamiento cercanos | Como ciclista, deseo saber que estacionamientos estan cercanos a mi ubicación para ahorrar tiempo en mi busqueda de estacionamientos. | 5 |
@@ -95,47 +48,4 @@ Epic
 | 14 | 14 | Contacto de información | Como ciclista, deseo que el landing page tenga contactos de información para poder contactarme rápidamente con servicio al cliente. | 2 |
 | 15 | 15 | Validación de usuario | Como desarrollador, deseo validar a los usuarios cuando envien su información en el inicio de sesión para que la aplicación sea segura y óptima. | 8 |
 
-Capítulo IV: Product Design
-4.1. Style Guidelines.
-6/36 V1.0
-4.1.1. General Style Guidelines.
-4.1.2. Web Style Guidelines.
-4.2. Information Architecture.
-4.2.1. Organization Systems.
-4.2.2. Labeling Systems.
-4.2.3. SEO Tags and Meta Tags
-4.2.4. Searching Systems.
-4.2.5. Navigation Systems.
-4.3. Landing Page UI Design.
-4.3.1. Landing Page Wireframe.
-4.3.2. Landing Page Mock-up.
-4.4. Web Applications UX/UI Design.
-4.4.1. Web Applications Wireframes.
-4.4.2. Web Applications Wireflow Diagrams.
-4.4.2. Web Applications Mock-ups.
-4.4.3. Web Applications User Flow Diagrams.
-4.5. Web Applications Prototyping.
-4.6. Domain-Driven Software Architecture.
-4.6.1. Software Architecture Context Diagram.
-4.6.2. Software Architecture Container Diagrams.
-4.6.3. Software Architecture Components Diagrams.
-4.7. Software Object-Oriented Design.
-4.7.1. Class Diagrams.
-4.7.2. Class Dictionary.
-4.8. Database Design.
-4.8.1. Database Diagram.
-Capítulo V: Product Implementation, Validation & Deployment
-5.1. Software Configuration Management.
-5.1.1. Software Development Environment Configuration.
-5.1.2. Source Code Management.
-5.1.3. Source Code Style Guide & Conventions.
-5.1.4. Software Deployment Configuration.
-5.2. Landing Page, Services & Applications Implementation.
-5.2.X. Sprint n
-5.2.X.1. Sprint Planning n.
-5.2.X.2. Aspect Leaders and Collaborators.
-5.2.X.3. Sprint Backlog n.
-5.2.X.4. Development Evidence for Sprint Review.
-5.2.X.5. Execution Evidence for Sprint Review.
-5.2.X.6. Services Documentation Evidence for Sprint Review.
-5.2.X.7. Software Deployment Evidence for Sprint Re
+
