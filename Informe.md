@@ -435,7 +435,7 @@ La interfaz muestra una organización jerárquica clara
 ### 4.2.3. SEO Tags and Meta Tags
 
 Se utilizaran etiquetas meta para optimizar el posicionamiento y el contenido del sitio web. Estas etiquetas permitirán mejorar el análisis de los motores de búsqueda y la estructuración del sitio.
-```
+
 ### 4.2.4. Searching Systems
 
 - El campo “Ingresa destino” permite a los usuarios buscar rutas específicas, representando el sistema de búsqueda principal de la pantalla.
