@@ -1,94 +1,49 @@
-# AppWebGrupo1_proyecto
+# CicloVía
 
-Carátula
-Universidad, carrera, ciclo
-Código del Curso y Nombre del curso
-Sección
-Nombre del profesor
-"Informe de Trabajo Final"
-Nombre del startup
-Nombre del producto
-Relación de integrantes (Incluyendo en cada caso Código, Apellidos y Nombres)
-Mes y año
-5/36
-Registro de Versiones del Informe
-Project Report Collaboration Insights
-Contenido
-Tabla de contenidos
-Student Outcome
-Capítulo I: Introducción
-1.1. Startup Profile
-1.1.1. Descripción de la Startup
-1.1.2. Perfiles de integrantes del equipo
-1.2. Solution Profile
-1.2.1 Antecedentes y problemática
-1.2.2 Lean UX Process.
-1.2.2.1. Lean UX Problem Statements.
-1.2.2.2. Lean UX Assumptions.
-1.2.2.3. Lean UX Hypothesis Statements.
-1.2.2.4. Lean UX Canvas.
-1.3. Segmentos objetivo.
-Capítulo II: Requirements Elicitation & Analysis
-2.1. Competidores.
-2.1.1. Análisis competitivo.
-2.1.2. Estrategias y tácticas frente a competidores.
-2.2. Entrevistas.
-2.2.1. Diseño de entrevistas.
-2.2.2. Registro de entrevistas.
-2.2.3. Análisis de entrevistas.
-2.3. Needfinding.
-2.3.1. User Personas.
-2.3.2. User Task Matrix.
-2.3.3. User Journey Mapping.
-2.3.4. Empathy Mapping.
-2.3.5. As-is Scenario Mapping.
-2.4. Ubiquitous Language.
-Capítulo III: Requirements Specification
-3.1. To-Be Scenario Mapping.
-3.2. User Stories.
-3.3. Impact Mapping.
-3.4. Product Backlog.
-Capítulo IV: Product Design
-4.1. Style Guidelines.
-6/36 V1.0
-4.1.1. General Style Guidelines.
-4.1.2. Web Style Guidelines.
-4.2. Information Architecture.
-4.2.1. Organization Systems.
-4.2.2. Labeling Systems.
-4.2.3. SEO Tags and Meta Tags
-4.2.4. Searching Systems.
-4.2.5. Navigation Systems.
-4.3. Landing Page UI Design.
-4.3.1. Landing Page Wireframe.
-4.3.2. Landing Page Mock-up.
-4.4. Web Applications UX/UI Design.
-4.4.1. Web Applications Wireframes.
-4.4.2. Web Applications Wireflow Diagrams.
-4.4.2. Web Applications Mock-ups.
-4.4.3. Web Applications User Flow Diagrams.
-4.5. Web Applications Prototyping.
-4.6. Domain-Driven Software Architecture.
-4.6.1. Software Architecture Context Diagram.
-4.6.2. Software Architecture Container Diagrams.
-4.6.3. Software Architecture Components Diagrams.
-4.7. Software Object-Oriented Design.
-4.7.1. Class Diagrams.
-4.7.2. Class Dictionary.
-4.8. Database Design.
-4.8.1. Database Diagram.
-Capítulo V: Product Implementation, Validation & Deployment
-5.1. Software Configuration Management.
-5.1.1. Software Development Environment Configuration.
-5.1.2. Source Code Management.
-5.1.3. Source Code Style Guide & Conventions.
-5.1.4. Software Deployment Configuration.
-5.2. Landing Page, Services & Applications Implementation.
-5.2.X. Sprint n
-5.2.X.1. Sprint Planning n.
-5.2.X.2. Aspect Leaders and Collaborators.
-5.2.X.3. Sprint Backlog n.
-5.2.X.4. Development Evidence for Sprint Review.
-5.2.X.5. Execution Evidence for Sprint Review.
-5.2.X.6. Services Documentation Evidence for Sprint Review.
-5.2.X.7. Software Deployment Evidence for Sprint Re
+Una plataforma web colaborativa que promueve el uso seguro, eficiente y sostenible de la bicicleta como medio de transporte urbano en Lima.
+
+## Descripción breve
+
+En la ciudad de Lima, donde el tráfico, la contaminación y la inseguridad complican la movilidad diaria, cada vez más personas buscan alternativas sostenibles como la bicicleta. Sin embargo, la falta de infraestructura, rutas seguras y herramientas digitales dificulta su uso cotidiano.
+
+CicloVía nace como respuesta a estos desafíos. Es una aplicación web orientada a ciclistas urbanos que desean movilizarse de forma segura, planificada y conectada. La plataforma permite:
+
+- Planificar rutas seguras con base en datos colaborativos.
+- Crear o unirse a grupos de viaje con trayectos similares.
+- Recibir alertas de riesgo en tiempo real.
+- Acceder a beneficios por el uso frecuente de la bicicleta.
+
+CicloVía busca transformar la experiencia de movilidad urbana en Lima, conectando a ciclistas en una red segura y activa que fomente una ciudad más saludable, colaborativa y ecológica.
+
+
+## Características principales
+
+- Rutas seguras  
+  Planificación inteligente de recorridos urbanos en bicicleta, con alertas de tráfico, inseguridad y calificaciones de otros ciclistas.
+
+- Estacionamientos cercanos y disponibles  
+  Consulta en tiempo real los estacionamientos más cercanos y cuántos espacios libres hay para tu bicicleta.
+
+- Foro colaborativo  
+  Espacio comunitario para compartir experiencias, hacer publicaciones con imágenes o videos, y comunicarse entre ciclistas.
+
+- Búsqueda de tiendas ciclistas  
+  Encuentra negocios relacionados al ciclismo desde la aplicación.
+
+- Landing page informativa  
+  Accede fácilmente a información clave sobre la app y canales de contacto.
+
+- Inicio de sesión seguro  
+  Validación de usuarios para proteger la integridad de la comunidad.
+
+## Tecnologías utilizadas
+
+CicloVía está desarrollado con un stack moderno de tecnologías web, enfocado en crear una experiencia de usuario fluida, responsiva y accesible:
+
+- Vue.js – Framework progresivo de JavaScript para la construcción de interfaces de usuario dinámicas y reactivas.
+- PrimeVue – Biblioteca de componentes UI para Vue, utilizada para acelerar el desarrollo de interfaces limpias y accesibles.
+- JavaScript (ES6+) – Lenguaje principal para la lógica del frontend.
+- HTML5 – Estructura semántica del contenido web.
+- CSS3 – Estilización del diseño adaptativo y visualmente atractivo.
+
+
