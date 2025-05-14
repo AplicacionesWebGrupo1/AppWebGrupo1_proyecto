@@ -1,4 +1,4 @@
-Capítulo III: Requirements Specification
+# Capítulo III: Requirements Specification
 
 3.1. To-Be Scenario Mapping.
 
@@ -8,7 +8,7 @@ Capítulo III: Requirements Specification
 | Thinking | “Hay muchos autos en esta zona, no sé si es seguro.” “¿Dónde puedo dejar la bici sin preocuparme?” | “Me recomendaron una aplicación web llamada CicloVía, asi que lo voy a probar | “Pienso que la aplicación web es muy interesante porque tiene varias funciones” | “CicloVía me ayuda a reducir mi tiempo de búsqueda de rutas y estacionamientos” |
 | Feeling | - Ansiedad por la inseguridad de ciertas calles. - Incomodidad por tener que improvisar constantemente rutas o soluciones. | - Me siento curioso porque voy a probar una nueva aplicación web relacionada a las rutas | - Me siento tranquilo porque la aplicación web fue bueno y sus funcionales son de mucha ayuda | - Me siento feliz porque ahora podré mantenerme seguro y lograré ahorrar tiempo en mi búsqueda de estacionamientos y rutas |
 
-3.2. User Stories.
+## 3.2. User Stories.
 
 Epic
 | Epic id | Título | Descripción |
@@ -38,13 +38,13 @@ Epic
 | 14 | Contacto de información | Como ciclista, deseo que el landing page tenga contactos de información para poder contactarme rápidamente con servicio al cliente. | **Escenario: Acceso a contacto** Dado que el ciclista se encuentra en el landing page Cuando el ciclista seleccione la opción “Contacto” Entonces el sistema muestra los contactos disponibles para el servicio al cliente | 5 |
 | 15 | Validación de usuario | Como desarrollador, deseo validar a los usuarios cuando envien su información en el inicio de sesión para que la aplicación sea segura y óptima. | **Escenario: Validar usuario** Dado que el ciclista se encuentra en el inicio de sesión Cuando el ciclista envia sus datos en el inicio de sesión Entonces el sistema valida si los datos del usuario son correctos o no | 6 |
 
-3.3. Impact Mapping.
+## 3.3. Impact Mapping.
 
 | Goal | Actor | Impact | Deliverable |
 |------|-------|--------|-------------|
 | Proteger a los ciclistas de las rutas inseguras que existen en Lima | Ciclista | - Participar en foros de ciclistas - Revisar los avisos de inseguridad y de tráfico | Sugerencia de rutas óptimas y seguras |
 
-3.4. Product Backlog.
+## 3.4. Product Backlog.
 | # Orden | User Story Id | Título | Descripción | Story Points (1/2/3/5/8) |
 |---------|---------------|--------|-------------|--------------------------|
 | 1 | 1 | Estacionamiento cercanos | Como ciclista, deseo saber que estacionamientos estan cercanos a mi ubicación para ahorrar tiempo en mi busqueda de estacionamientos. | 5 |
