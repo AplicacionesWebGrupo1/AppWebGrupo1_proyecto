@@ -42,23 +42,23 @@ Durante la preparación del informe, se llevaron a cabo las siguientes actividad
 
 |Integrante|Tareas Asignadas|
 |---|---|
-|Melina Santillan |xxxxxx.<br>xxxxxxx.<br>xxxxx<br>xxxxxx<br>xx.<br>xxx.<br>xxxx.<br>Landing Page<br>Sprint 1|
-|Santiago Gordillo|Startup Profile<br>Solution Profile<br>Lean UX Process<br>Lean UX Canvas<br>Lean UX Assumptions<br>Segmentos Objetivo<br>Landing Page<br>Sprint 1|
-|Jhon Huamano |xxxx<br>xxxxx<br>xxxxx<br>xxxxx<br>xxxxx<br>xxxx<br>xxxx<br>Landing Page<br>Sprint 1|
+|Melina Santillan |To Be Scenario Mapping<br>User Stories<br>Impact Maping<br>Product Backlog<br>Landing Page<br>Sprint 2<br>Sprint 1|
+|Santiago Gordillo|Startup Profile<br>Solution Profile<br>Lean UX Process<br>Lean UX Canvas<br>Lean UX Assumptions<br>Segmentos Objetivo<br>Landing Page<br>Sprint 2<br>Landing Page<br>Sprint 1|
+|Jhon Huamano |Software Configuration Management<br>Landing Page, Services & Applications Implementation<br>Sprint 2<br>Software Development Environment Configuration<br>Source Code Management<br>Source Code Style Guide & Conventions<br>Software Deployment Configuration<br>Landing Page<br>Sprint 1|
 
 ## GitHub Insights
 
 Los integrantes del equipo son:
-* Melina Santilla ()
-* Santiago Gordillo (SantiIHC)
-* Jhon Huamani ()
+* Melina Santilla 
+* Santiago Gordillo 
+* Jhon Huamani 
 
 **Student Outcomes**
 
 |Criterio específico|Acciones realizadas|Conclusiones|
 |---|---|---|
-|Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.|**Melina Santillan**<br>TB1:<br>xxxx<br>**Santiago Gordillo**<br>TB1:<br>xxxxxxx<br><br>**Jhon Huamani**<br>TB1: <br>xxx<br>|
-|Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.|**Melina Santillan**<br>TB1:<br>xxxx<br>**Santiago Gordillo**<br>TB1:<br>xxxxxxx<br><br>**Jhon Huamani**<br>TB1: <br>xxx<br>|
+|Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.|**Melina Santillan**<br>TB1:<br>Expreso de manera clara y concisa los objetivos de sus aportes y el software<br>**Santiago Gordillo**<br>TB1:<br>Durante el desarrollo de las reuniones se explico de manera concreta los objetivos realizados para colaborar con el grupo.<br><br>**Jhon Huamani**<br>TB1:<br>Comunico satisfactoriamente sus ideas de proyecto y complementó correctamente las ideas del grupo<br>| Los estudiantes demostraron competencias sólidas en comunicación oral, logrando transmitir de forma efectiva los avances y beneficios del proyecto. Se continuará fomentando la comunicación oral para poder terminar de manera exitosa el proyecto.|
+|Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.|**Melina Santillan**<br>TB1:<br>Redactó correctamente la parte asignada por el grupo para <br>**Santiago Gordillo**<br>TB1:<br>xxxxxxx<br><br>**Jhon Huamani**<br>TB1: <br>xxx<br>| La comunicación escrita ha sido crucial para poder completar el informe de manera satisfactoria y asegurar la comprensión de los entregables entre los miembros del equipo. Se mantendra el mismo enfoque oral.|
 
 # Contenido
 
@@ -991,3 +991,69 @@ El objetivo principal de este sprint es completar la estructura y los elementos 
 | 1        | Estacionamiento cercanos  | T001    | Crear la estructura           | Implementar la lógica y diseñar la interfaz para el acceso de estacionamientos.      | 6                      | Melina Santillan        | Done      |
 | 2        | 	Acceso al    foro    | T002    | Diseñar la página de acceso al foro           | Aplicar el diseño visual utilizando CSS y aplicar la lógica para la funcionalidad. | 4                      | Santiago Gordillo          | Done     |
 | 3        | Buscar rutas seguras  | T003    | Diseñar la interfaz y funcionalidad | Desarrollar la lógica que permita visualizar las rutas y la interfaz. | 8                      | Jhon Huamani       | Done       |
+
+
+#### 5.2.X.3. Development Evidence for Sprint Review
+En esta seccion se busca detallar el proceso por la cual se trabajo el Sprint 2 indicando el repositorio en la cual se trabajo las ramas que se usaron dentro de dicho repositorio, el id con su mensaje y la fecha en la que se realizo de esta manera tener un registro del avance de los task planteados.
+
+| Repository          | Branch            | Commit Id | Commit Message           | Commit Message Body            | Committed on (Date) |
+|---------------------|-------------------|-----------|--------------------------|--------------------------------|---------------------|
+|   | develop/styles.css | 095c8984d560b6c89642c83e6fa0aa174cd479c3      | Update styles.css       | -- | 25/04/2024  |
+| https://github.com/AplicacionesWebGrupo1/Landing-page-CicloVia  | develop/styles.css | 5d9df57242224132e812e6d1d08ac9ff04444a1f      | Update styles.css       | -- | 25/04/2024  |
+| https://github.com/AplicacionesWebGrupo1/Landing-page-CicloVia  | develop/styles.css | 50ea5bbbc28ddc5da6e4d9733d9de741da2284c8      | Update styles.css       | -- | 25/04/2024  |
+| https://github.com/AplicacionesWebGrupo1/Landing-page-CicloVia  | develop/styles.css | 515954cabfa0b51af2711f0abbccf02df94ac5d6      | Update styles.css       | -- | 25/04/2024  |
+| https://github.com/AplicacionesWebGrupo1/Landing-page-CicloVia  | develop/main.js    | 97254fa5eeddcd3edf48b9d46c1da7b777a51a96      | Update main.js          | -- | 25/04/2024  |
+| https://github.com/AplicacionesWebGrupo1/Landing-page-CicloVia  | develop/styles.css | 10079f0bb29125287d2f032d1ea0b855486947af      | Add responsive design   | -- | 25/04/2024  |
+| https://github.com/AplicacionesWebGrupo1/Landing-page-CicloVia  | develop/styles.css | 6b4e5c3c8c9f7200656f8833f63a0349d96b923e      | Add responsive design   | -- | 24/04/2024  |
+| https://github.com/AplicacionesWebGrupo1/Landing-page-CicloVia  | develop/styles.css | 5fed89d466e536fe1a3269b6576d2d47c1d423b6      | Add responsive design   | -- | 24/04/2024  |
+| https://github.com/AplicacionesWebGrupo1/Landing-page-CicloVia  | develop/index.html | b3159128247b46f26ec225fc5bc39d128d491866      | Update index.html       | -- | 23/04/2024  |
+| https://github.com/AplicacionesWebGrupo1/Landing-page-CicloVia  | develop            | 88b6d6d75da22b1771d8b680253758cb5578f4ef      | Add files via upload    | -- | 23/04/2024  |
+| https://github.com/AplicacionesWebGrupo1/Landing-page-CicloVia  | main               | 298312a3c7a372ee2a7dc252817d8f7035d34533      | added develop           | -- | 23/04/2024  |
+| https://github.com/AplicacionesWebGrupo1/Landing-page-CicloVia  | readme             | e6be8918dfc08256936e9563665d49f44c940bd5      | Update readme           | -- | 23/04/2024  |
+| https://github.com/AplicacionesWebGrupo1/Landing-page-CicloVia  | main               | cbbecf0db5b33c18c395ec0afbc752ae79526204      | Initial commit          | -- | 23/04/2024  |
+
+#### 5.2.1.4. Testing Suite Evidence for Sprint Review
+
+Durante el desarrollo de este segundo sprint se realizó el dieseño, implementación de la landing page.
+
+#### 5.2.1.5. Execution Evidence for Sprint Review
+
+En este Sprint, se logro desarrollar el frontend web application del proyecto, el cual cuenta con el proposito de ser un
+producto facil de utilizar por nuestros usuarios.
+
+
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review
+
+Se trabajo netamente en el Front End de la aplicación. 
+
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review
+
+Durante este sprint, se realizó el despliegue inicial de la **Landing Page** del proyecto. Este proceso incluyó la configuración de recursos y la implementación de estrategias para garantizar un despliegue exitoso. A continuación, se detallan las actividades realizadas, los pasos seguidos y las herramientas utilizadas para completar el proceso de deployment.
+
+Capturas:
+
+
+#### 5.2.X.8. Team Collaboration Insights during Sprint
+Durante este Sprint, el equipo ha colaborado en la creación de los productos planificados, centrándose en la **Landing Page** y los web applications. 
+
+A continuación, se presentan capturas de los informes de colaboración en GitHub, donde se puede observar la participación de cada integrante en cuanto a commits y contribuciones.
+
+
+
+### 6. Conclusiones
+
+#### TB1:
+
+1. Este proyecto nos enseña a estructurar de manera clara y organizada un proyecto para trabajos futuros.
+
+2. A partir del análisis del contexto, detectamos que la falta de rutas seguras, infraestructura adecuada y una comunidad conectada limita significativamente la experiencia y seguridad del ciclista. Esta problemática es diaria, constante y afecta a un segmento creciente de la población.
+
+3. Nuestra aplicación busca resolver la planificación de las rutas de los cicilistas asi como los problemas que puedan haber, para poder fomentar un ciclismo seguro en el País.
+
+#### TP1:
+
+1. Aprendimos la importancia de saber las necesidades de los usuarios objetivos al momento de realizar alguna aplicación.
+
+2. El trabajo colaborativo fue esencial para construir una solución. Al integrar diferentes puntos de vista del equipo, logramos una visión más completa del problema y una solución más robusta.
+
+3. Este proyecto nos permitió aplicar conceptos aprendidos en clase a una problemática real.
