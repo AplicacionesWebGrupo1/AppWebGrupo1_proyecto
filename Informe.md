@@ -188,10 +188,6 @@ Nuestra Startup llamado CicloVía, busca enfocarse en personas que se apasionen 
 ### 1.1.2. Perfil de los integrantes
 
 -----------------------------------------------------------------------------------------
-- Mi nombre es Santiago Gordillo Ramos soy estudiante de ingeniería de software, tengo 21 años. Me gusta el lenguaje python y tengo conocimiento intermedio en los demás lenguajes.
-
-![Santi](https://raw.githubusercontent.com/AplicacionesWebGrupo1/AppWebGrupo1_proyecto/refs/heads/main/Image/integrante22.jpg)
------------------------------------------------------------------------------------------
 - Mi nombre es Melina Liz Santillan Alvarado y tengo 21 años. Estoy en la carrera de Ingeniería de Software. Soy una persona responsable y creativa, además soy buena trabajando en equipo. Por otro lado, tengo conocimientos en diferentes lenguajes de programación y frameworks.
   
 ![Santi](https://raw.githubusercontent.com/AplicacionesWebGrupo1/AppWebGrupo1_proyecto/refs/heads/main/Image/s.jfif)
