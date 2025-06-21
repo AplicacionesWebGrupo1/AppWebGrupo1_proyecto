@@ -1012,21 +1012,21 @@ En esta seccion se busca detallar el proceso por la cual se trabajo el Sprint 2 
 | https://github.com/AplicacionesWebGrupo1/Landing-page-CicloVia  | readme             | e6be8918dfc08256936e9563665d49f44c940bd5      | Update readme           | -- | 23/04/2024  |
 | https://github.com/AplicacionesWebGrupo1/Landing-page-CicloVia  | main               | cbbecf0db5b33c18c395ec0afbc752ae79526204      | Initial commit          | -- | 23/04/2024  |
 
-#### 5.2.1.4. Testing Suite Evidence for Sprint Review
+#### 5.2.2.4. Development Evidence for Sprint Review
 
-Durante el desarrollo de este segundo sprint se realizó el dieseño, implementación de la landing page.
+Durante el desarrollo de este segundo sprint se realizó el despliegue del frontend.
 
-#### 5.2.1.5. Execution Evidence for Sprint Review
+#### 5.2.2.5. Execution Evidence for Sprint Review
 
 En este Sprint, se logro desarrollar el frontend web application del proyecto, el cual cuenta con el proposito de ser un
 producto facil de utilizar por nuestros usuarios.
 
 
-#### 5.2.1.6. Services Documentation Evidence for Sprint Review
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
 Se trabajo netamente en el Front End de la aplicación. 
 
-#### 5.2.1.7. Software Deployment Evidence for Sprint Review
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
 Durante este sprint, se realizó el despliegue inicial de la **Landing Page** del proyecto. Este proceso incluyó la configuración de recursos y la implementación de estrategias para garantizar un despliegue exitoso. A continuación, se detallan las actividades realizadas, los pasos seguidos y las herramientas utilizadas para completar el proceso de deployment.
 
