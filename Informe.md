@@ -50,7 +50,6 @@ Durante la preparación del informe, se llevaron a cabo las siguientes actividad
 
 Los integrantes del equipo son:
 * Melina Santilla 
-* Santiago Gordillo 
 * Jhon Huamani 
 
 **Student Outcomes**
