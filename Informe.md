@@ -1016,6 +1016,8 @@ En esta seccion se busca detallar el proceso por la cual se trabajo el Sprint 2 
 
 Durante el desarrollo de este segundo sprint se realizó el despliegue del frontend.
 
+![frontend](https://github.com/AplicacionesWebGrupo1/AppWebGrupo1_proyecto/blob/main/Image/frontend-deployment.jpg)
+
 #### 5.2.2.5. Execution Evidence for Sprint Review
 
 En este Sprint, se logro desarrollar el frontend web application del proyecto, el cual cuenta con el proposito de ser un
@@ -1028,7 +1030,9 @@ Se trabajo netamente en el Front End de la aplicación.
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
-Durante este sprint, se realizó el despliegue inicial de la **Landing Page** del proyecto. Este proceso incluyó la configuración de recursos y la implementación de estrategias para garantizar un despliegue exitoso. A continuación, se detallan las actividades realizadas, los pasos seguidos y las herramientas utilizadas para completar el proceso de deployment.
+Durante este sprint, se realizó el despliegue inicial del **frontend** del proyecto. Este proceso incluyó la configuración de recursos y la implementación de estrategias para garantizar un despliegue exitoso. A continuación, se detallan las actividades realizadas, los pasos seguidos y las herramientas utilizadas para completar el proceso de deployment.
+
+![github pages](https://github.com/AplicacionesWebGrupo1/AppWebGrupo1_proyecto/blob/main/Image/github_pages-frontend.jpg)
 
 Capturas:
 
