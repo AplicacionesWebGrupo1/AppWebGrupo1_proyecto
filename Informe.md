@@ -974,7 +974,9 @@ El equipo se reunió para planificar el Sprint 2 del proyecto, cuyo enfoque prin
 **Sum of Story Points:**  
 El equipo ha asignado un total de **30 puntos** distribuidos en **3 User Stories**.
 
-#### 5.2.2.2. Sprint Backlog 2
+#### 5.2.2.2. Aspect Leaders and Collaborators.
+
+#### 5.2.2.3. Sprint Backlog 2
 
 **Objetivo del Sprint**
 El objetivo principal de este sprint es completar la estructura y los elementos interactivos de la landing page, aplicando estilos visuales consistentes y asegurando la funcionalidad de los formularios. Se busca que la página sea completamente operativa y esté lista para las pruebas finales de usabilidad y ajuste, basándose en el feedback recibido.
@@ -993,7 +995,7 @@ El objetivo principal de este sprint es completar la estructura y los elementos 
 | 3        | Buscar rutas seguras  | T003    | Diseñar la interfaz y funcionalidad | Desarrollar la lógica que permita visualizar las rutas y la interfaz. | 8                      | Jhon Huamani       | Done       |
 
 
-#### 5.2.X.3. Development Evidence for Sprint Review
+#### 5.2.2.4. Development Evidence for Sprint Review
 En esta seccion se busca detallar el proceso por la cual se trabajo el Sprint 2 indicando el repositorio en la cual se trabajo las ramas que se usaron dentro de dicho repositorio, el id con su mensaje y la fecha en la que se realizo de esta manera tener un registro del avance de los task planteados.
 
 | Repository          | Branch            | Commit Id | Commit Message           | Commit Message Body            | Committed on (Date) |
@@ -1012,17 +1014,13 @@ En esta seccion se busca detallar el proceso por la cual se trabajo el Sprint 2 
 | https://github.com/AplicacionesWebGrupo1/Landing-page-CicloVia  | readme             | e6be8918dfc08256936e9563665d49f44c940bd5      | Update readme           | -- | 23/04/2024  |
 | https://github.com/AplicacionesWebGrupo1/Landing-page-CicloVia  | main               | cbbecf0db5b33c18c395ec0afbc752ae79526204      | Initial commit          | -- | 23/04/2024  |
 
-#### 5.2.2.4. Development Evidence for Sprint Review
+#### 5.2.2.5. Execution Evidence for Sprint Review
 
 Durante el desarrollo de este segundo sprint se realizó el despliegue del frontend.
 
 ![frontend](https://github.com/AplicacionesWebGrupo1/AppWebGrupo1_proyecto/blob/main/Image/frontend-deployment.jpg)
 
-#### 5.2.2.5. Execution Evidence for Sprint Review
-
-En este Sprint, se logro desarrollar el frontend web application del proyecto, el cual cuenta con el proposito de ser un
-producto facil de utilizar por nuestros usuarios.
-
+Link del frontend desplegado: https://aplicacioneswebgrupo1.github.io/CicloVia-FrontEnd/
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
