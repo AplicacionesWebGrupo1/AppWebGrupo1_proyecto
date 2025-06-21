@@ -971,6 +971,12 @@ El equipo ha asignado un total de **30 puntos** distribuidos en **3 User Stories
 
 #### 5.2.2.2. Aspect Leaders and Collaborators.
 
+| Team Member (Last Name, First Name) | GitHub Username|
+| ------------------ |------------------------- |
+| Huamani, Jhon Rony | JhonHuam | 
+| Santillan Alvarado, Melina Liz | melinaasantillan |
+| Gordillo Ramo, Santiago Alonso | SantiIHC |
+
 #### 5.2.2.3. Sprint Backlog 2
 
 **Objetivo del Sprint**
@@ -1027,10 +1033,8 @@ Durante este sprint, se realizó el despliegue inicial del **frontend** del proy
 
 ![github pages](https://github.com/AplicacionesWebGrupo1/AppWebGrupo1_proyecto/blob/main/Image/github_pages-frontend.jpg)
 
-Capturas:
 
-
-#### 5.2.X.8. Team Collaboration Insights during Sprint
+#### 5.2.2.8. Team Collaboration Insights during Sprint
 Durante este Sprint, el equipo ha colaborado en la creación de los productos planificados, centrándose en la **Landing Page** y los web applications. 
 
 A continuación, se presentan capturas de los informes de colaboración en GitHub, donde se puede observar la participación de cada integrante en cuanto a commits y contribuciones.
